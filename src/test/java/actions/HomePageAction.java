@@ -1,6 +1,7 @@
 package actions;
 
 import common.BasePage;
+import common.CommonUtils;
 import interfaces.CommonInterface;
 import org.openqa.selenium.WebDriver;
 
@@ -13,7 +14,7 @@ public class HomePageAction extends BasePage {
     public void clickOnMenu(String menu) {
         scrollIntoView(driver, CommonInterface.HOME_PAGE_MENU, menu);
 //        highlightElement(driver, CommonInterface.HOME_PAGE_MENU, menu);
-        SleepInSeconds(3);
+        CommonUtils.SleepInSeconds(3);
         clickToElement(driver, CommonInterface.HOME_PAGE_MENU, menu);
     }
 

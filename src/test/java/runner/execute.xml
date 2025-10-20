@@ -1,0 +1,18 @@
+<suite name="Demo QA" parallel="false">
+    <!--  NHÓM phải đứng đầu nếu có  -->
+    <!--     <groups> -->
+    <!--         <run> -->
+    <!--             <include name="smoke"/> -->
+    <!--         </run> -->
+    <!--     </groups> -->
+    <!--  Listener  -->
+    <listeners>
+        <listener class-name="reports.TestListener"/>
+    </listeners>
+    <!--  Khối test  -->
+    <test name="Demo">
+        <classes>
+            <class name="testcases.FlowToElementTestcases"/>
+        </classes>
+    </test>
+</suite>

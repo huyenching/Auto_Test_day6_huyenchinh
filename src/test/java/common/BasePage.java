@@ -140,13 +140,7 @@ public class BasePage {
     }
 
     // 21 SleepInSecond
-    public void SleepInSeconds(long seconds) {
-        try {
-            Thread.sleep(seconds*1000L);
-        } catch (InterruptedException ignored) {
 
-        }
-    }
 
     // 22 hoverToElement
     public void hoverToElement(WebDriver driver, String xpath) {
@@ -238,6 +232,7 @@ public class BasePage {
     }
     // 37 isDisplayElement
     public boolean isDisplayElement(WebDriver driver, String xpath) {
+        waitForElementIsVisible(driver, xpath);
         try {
             return getElement(driver, xpath).isDisplayed();
         } catch (Exception e) {
@@ -247,6 +242,7 @@ public class BasePage {
 
     // 38 isDisplayElement (params)
     public boolean isDisplayElement(WebDriver driver, String xpath, String... params) {
+        waitForElementIsVisible(driver, xpath,params);
         try {
             return getDynamicElement(driver, xpath, params).isDisplayed();
         } catch (Exception e) {
@@ -256,11 +252,14 @@ public class BasePage {
 
     // 39 isDisplayElements
     public boolean isDisplayElements(WebDriver driver, String xpath) {
-        return driver.findElements(By.xpath(xpath)).size() > 0;
+        waitForElementIsVisible(driver, xpath);
+        List<WebElement> elements = driver.findElements(By.xpath(xpath));
+        return !elements.isEmpty() && elements.get(0).isDisplayed();
     }
 
     // 40 isDisplayElements (params)
     public boolean isDisplayElements(WebDriver driver, String xpath, String... params) {
+        waitForElementIsVisible(driver, xpath,params);
         String dynamicXpath = String.format(xpath, (Object[]) params);
         return driver.findElements(By.xpath(dynamicXpath)).size() > 0;
     }
@@ -366,24 +365,28 @@ public class BasePage {
 
     // 56 selectItemInDefaultDropdown
     public void selectItemInDefaultDropdown(WebDriver driver, String xpath, String itemText) {
+        waitForElementIsVisible(driver, xpath);
         Select select = new Select(getElement(driver, xpath));
         select.selectByVisibleText(itemText);
     }
 
     // 57 selectItemInDefaultDropdown (params)
     public void selectItemInDefaultDropdown(WebDriver driver, String xpath, String itemText, String... params) {
+        waitForElementIsVisible(driver, xpath,params);
         Select select = new Select(getDynamicElement(driver, xpath, params));
         select.selectByVisibleText(itemText);
     }
 
     // 58 getFirstSelectedTextItem
     public String getFirstSelectedTextItem(WebDriver driver, String xpath) {
+        waitForElementIsVisible(driver, xpath);
         Select select = new Select(getElement(driver, xpath));
         return select.getFirstSelectedOption().getText();
     }
 
     // 59 getFirstSelectedTextItem (params)
     public String getFirstSelectedTextItem(WebDriver driver, String xpath, String... params) {
+        waitForElementIsVisible(driver, xpath,params);
         Select select = new Select(getDynamicElement(driver, xpath, params));
         return select.getFirstSelectedOption().getText();
     }
@@ -402,7 +405,8 @@ public class BasePage {
 
     // 62 checkToCheckboxOrRadio
     public void checkToCheckboxOrRadio(WebDriver driver, String xpath) {
-        WebElement element = getElement(driver, xpath);
+         element = getElement(driver, xpath);
+         waitForElementIsVisible(driver, xpath);
         if (!element.isSelected()) {
             element.click();
         }
@@ -410,7 +414,8 @@ public class BasePage {
 
     //63 checkToCheckboxOrRadio (params)
     public void checkToCheckboxOrRadio(WebDriver driver, String xpath, String... params) {
-        WebElement element = getDynamicElement(driver, xpath, params);
+        element = getDynamicElement(driver, xpath, params);
+        waitForElementIsVisible(driver, xpath, params);
         if (!element.isSelected()) {
             element.click();
         }
@@ -418,7 +423,8 @@ public class BasePage {
 
     // 64 unCheckToCheckbox
     public void unCheckToCheckbox(WebDriver driver, String xpath) {
-        WebElement element = getElement(driver, xpath);
+         element = getElement(driver, xpath);
+         waitForElementIsVisible(driver, xpath);
         if (element.isSelected()) {
             element.click();
         }
@@ -441,7 +447,7 @@ public class BasePage {
 
     // 68 switchToDefaultContent
     public void unCheckToCheckbox(WebDriver driver, String xpath, String... params) {
-        WebElement element = getDynamicElement(driver, xpath, params);
+         element = getDynamicElement(driver, xpath, params);
         if (element.isSelected()) {
             element.click();
         }
@@ -449,15 +455,16 @@ public class BasePage {
 
     // 69.ScrollInToView
     public void scrollIntoView(WebDriver driver, String xpath, String... params) {
-        WebElement el = getDynamicElement(driver, xpath, params);
+         element  = getDynamicElement(driver, xpath, params);
         try {
             ((JavascriptExecutor) driver).executeScript(
-                    "arguments[0].scrollIntoView({block:'center', inline:'center'});", el
+                    "arguments[0].scrollIntoView({block:'center', inline:'center'});", element
             );
         } catch (JavascriptException e) {
-            ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", el);
+            ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", element);
         }
     }
+
 
 
 }

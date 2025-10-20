@@ -29,14 +29,14 @@ public class TextboxPageAction extends BasePage {
         waitForElementIsVisible(driver,PERMANENT_ADDRESS);
         enterTextToElement(driver, PERMANENT_ADDRESS, permanentAddress);
     }
-    public void enterSubmitButton() {
-        waitForElementIsVisible(driver,SUBMIT_BUTTON);
-        scrollIntoView(driver,SUBMIT_BUTTON);
-        clickToElement(driver, SUBMIT_BUTTON);
+    public void enterSubmitButton(String value) {
+        waitForElementIsVisible(driver,TextboxPageInterface.SUBMIT_BUTTON);
+        scrollIntoView(driver,TextboxPageInterface.SUBMIT_BUTTON);
+        clickToElement(driver, TextboxPageInterface.SUBMIT_BUTTON);
     }
     public String getResult() {
         waitForElementIsVisible(driver, String.valueOf(outputText));
-        String outputtext = getTextElement(driver, String.valueOf(outputText));
-        return outputtext;
+        return   getTextElement(driver, String.valueOf(outputText));
+
     }
 }
