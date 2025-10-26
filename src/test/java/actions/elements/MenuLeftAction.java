@@ -15,6 +15,6 @@ public class MenuLeftAction extends BasePage {
 
        // highlightElement(driver, CommonInterface.Element_Menu, menu);
         //scrollIntoView(driver, CommonInterface.HOME_PAGE_MENU, menu);
-        clickToElement(driver, CommonInterface.Element_Menu, menu);
+        clickToElementByJS(driver, CommonInterface.Element_Menu, menu);
     }
 }

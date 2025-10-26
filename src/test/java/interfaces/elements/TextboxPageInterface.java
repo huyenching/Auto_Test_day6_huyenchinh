@@ -8,5 +8,5 @@ public interface TextboxPageInterface {
     String CURRENT_ADDRESS = "//textarea[@id='currentAddress']";
     String PERMANENT_ADDRESS= "//textarea[@id='permanentAddress']";
     String SUBMIT_BUTTON = "//button[@id='submit']";
-    By outputText = By.id("output");
+    String outputText = "//div[@id='output']";
 }

@@ -12,18 +12,20 @@ import java.util.Set;
 public class BasePage {
 
     protected WebDriver driver;
-    private WebElement element;
     private WebDriverWait wait ;
     private Actions actions;
+    private WebElement element;
 
     public BasePage(WebDriver driver) {
         this.driver = driver;
     }
+
     //1. Command element
     //1 getXpath
     public By getXpath(String xpath) {
         return By.xpath(xpath);
     }
+
     //2 getDynamicXpath
     public By getDynamicXpath(String xpath, String... params) {
         return By.xpath(String.format(xpath, (Object[]) params));
@@ -31,22 +33,22 @@ public class BasePage {
 
     //3 getElement
     public WebElement getElement(WebDriver driver, String xpath) {
-        element = driver.findElement(getXpath(xpath));
-        return element;
+        return driver.findElement(getXpath(xpath));
     }
+
+    // 7 getDynamicElement
+    public WebElement getDynamicElement(WebDriver driver, String xpath, String... params) {
+        return driver.findElement(getDynamicXpath(xpath, params));
+    }
+
     // 5 getElements
     public List<WebElement> getElements(WebDriver driver, String xpath, String... params) {
         return driver.findElements(getDynamicXpath(xpath,params));
     }
+
     //6 getDynamicLocator
     public String getDynamicLocator(String pattern, String... params) {
         return String.format(pattern, (Object[]) params);
-    }
-
-    //7 getDynamicElement
-    public WebElement getDynamicElement(WebDriver driver, String xpath, String... params) {
-        element = driver.findElement(getDynamicXpath(xpath, params));
-        return element;
     }
 
     //8 clickToElement
@@ -54,6 +56,7 @@ public class BasePage {
         waitForElementClickable(driver, xpath);
         getElement(driver, xpath).click();
     }
+
     //9 clickToElement (params)
     public void clickToElement(WebDriver driver, String xpath, String... params) {
         waitForElementClickable(driver, xpath, params);
@@ -62,38 +65,39 @@ public class BasePage {
 
     // 10 enterTextToElement
     public void enterTextToElement(WebDriver driver, String xpath, String text) {
-
         waitForElementIsVisible(driver, xpath);
-        getElement(driver, xpath).clear();
-        getElement(driver, xpath).sendKeys(text);
+        WebElement element = getElement(driver, xpath);
+        element.clear();
+        element.sendKeys(text);
     }
+
     // 11 enterTextToElement (params)
     public void enterTextToElement(WebDriver driver, String xpath, String text, String... params) {
-
         waitForElementIsVisible(driver, xpath,params);
-        getDynamicElement(driver, xpath,params).clear();
-        getDynamicElement(driver, xpath,params).sendKeys(text);
+        WebElement element = getDynamicElement(driver, xpath,params);
+        element.clear();
+        element.sendKeys(text);
     }
 
     //12 enterTextToElementUsingActions
-
     public void enterTextToElementUsingActions(WebDriver driver, String xpath, String text) {
         actions = new Actions(driver);
         waitForElementIsVisible(driver, xpath);
-        getElement(driver, xpath).clear();
-        actions.sendKeys(getElement(driver, xpath),text).click().perform();
+        WebElement element = getElement(driver, xpath);
+        element.clear();
+        actions.sendKeys(element,text).perform();
     }
 
     // 13 enterTextToElementUsingActions (params)
     public void enterTextToElementUsingActions(WebDriver driver, String xpath, String text, String... params) {
         actions = new Actions(driver);
         waitForElementIsVisible(driver, xpath,params);
-        getDynamicElement(driver, xpath).clear();
-        actions.sendKeys(getDynamicElement(driver, xpath,params),text).click().perform();
+        WebElement element = getDynamicElement(driver, xpath,params);
+        element.clear();
+        actions.sendKeys(element,text).perform();
     }
 
     //14 clickToElementByJS
-
     public void clickToElementByJS(WebDriver driver, String xpath){
         ((JavascriptExecutor) driver).executeScript("arguments[0].click();", getElement(driver, xpath));
     }
@@ -101,7 +105,6 @@ public class BasePage {
     public void clickToElementByJS(WebDriver driver, String xpath, String... params) {
         ((JavascriptExecutor) driver).executeScript("arguments[0].click();", getDynamicElement(driver, xpath,params));
     }
-
 
     //15 waitForElementIsVisible
     public void waitForElementIsVisible(WebDriver driver, String xpath) {
@@ -112,7 +115,6 @@ public class BasePage {
     //16 waitForElementIsVisible (params)
     public void waitForElementIsVisible(WebDriver driver, String xpath, String... params) {
         wait = new WebDriverWait(driver, Duration.ofSeconds(GlobalVariables.Short_time_out));
-        By dynamicBy = getDynamicXpath(xpath, params);
         wait.until(ExpectedConditions.visibilityOf(getDynamicElement(driver, xpath, params)));
     }
 
@@ -133,52 +135,55 @@ public class BasePage {
         waitForElementIsVisible(driver, xpath);
         ((JavascriptExecutor) driver).executeScript("arguments[0].style.border='3px solid red'", getElement(driver, xpath));
     }
+
     // 20 highLightElement (params)
     public void highlightElement(WebDriver driver, String xpath,String... params) {
-        waitForElementIsVisible(driver, xpath);
+        waitForElementIsVisible(driver, xpath, params);
         ((JavascriptExecutor) driver).executeScript("arguments[0].style.border='3px solid red'", getDynamicElement(driver, xpath,params));
     }
-
-    // 21 SleepInSecond
-
 
     // 22 hoverToElement
     public void hoverToElement(WebDriver driver, String xpath) {
         actions = new Actions(driver);
         waitForElementIsVisible(driver, xpath);
-        actions.moveToElement(getElement(driver, xpath)).click().perform();
+        actions.moveToElement(getElement(driver, xpath)).perform();
     }
+
     //23 hoverToElement (params)
     public void hoverToElement(WebDriver driver, String xpath, String... params) {
         actions = new Actions(driver);
         waitForElementIsVisible(driver, xpath,params);
-        actions.moveToElement(getDynamicElement(driver, xpath,params)).click().perform();
+        actions.moveToElement(getDynamicElement(driver, xpath,params)).perform();
     }
 
     // 24 rightClickOnElement
     public void rightClickToElement(WebDriver driver, String xpath) {
         actions = new Actions(driver);
         waitForElementIsVisible(driver, xpath);
-        actions.contextClick(getElement(driver, xpath)).click().perform();
+        actions.contextClick(getElement(driver, xpath)).perform();
     }
+
     // 25 rightClickOnElement (params)
     public void rightClickToElement(WebDriver driver, String xpath, String... params) {
         actions = new Actions(driver);
         waitForElementIsVisible(driver, xpath,params);
-        actions.contextClick(getDynamicElement(driver, xpath,params)).click().perform();
+        actions.contextClick(getDynamicElement(driver, xpath,params)).perform();
     }
+
     // 26 doubleClickOnElement
     public void doubleClickOnElement(WebDriver driver, String xpath) {
         actions = new Actions(driver);
         waitForElementIsVisible(driver, xpath);
-        actions.doubleClick(getElement(driver, xpath)).click().perform();
+        actions.doubleClick(getElement(driver, xpath)).perform();
     }
+
     // 27 doubleClickOnElement (params)
     public void doubleClickOnElement(WebDriver driver, String xpath, String... params) {
         actions = new Actions(driver);
         waitForElementIsVisible(driver, xpath,params);
-        actions.doubleClick(getDynamicElement(driver, xpath,params)).click().perform();
+        actions.doubleClick(getDynamicElement(driver, xpath,params)).perform();
     }
+
     // 28 dragAndDropElement
     public void dragAndDropElement(WebDriver driver, String sourcexpath, String targetxpath) {
         actions = new Actions(driver);
@@ -186,6 +191,7 @@ public class BasePage {
         waitForElementIsVisible(driver, targetxpath);
         actions.dragAndDrop(getElement(driver, sourcexpath), getElement(driver, targetxpath)).perform();
     }
+
     // 29 pressKeyToElement
     public void pressKeyToElement(WebDriver driver, String xpath, Keys key) {
         actions = new Actions(driver);
@@ -199,14 +205,16 @@ public class BasePage {
         waitForElementIsVisible(driver, xpath,params);
         actions.moveToElement(getDynamicElement(driver, xpath,params)).sendKeys(key).perform();
     }
+
     // 31 getTextElement
     public String getTextElement(WebDriver driver, String xpath) {
         waitForElementIsVisible(driver, xpath);
         return getElement(driver, xpath).getText().trim();
     }
+
     //32 getTextElement (params)
-    public String getTextElement(WebDriver driver, String xpath, String params) {
-        waitForElementIsVisible(driver, xpath);
+    public String getTextElement(WebDriver driver, String xpath, String... params) {
+        waitForElementIsVisible(driver, xpath,params);
         return getDynamicElement(driver, xpath,params).getText().trim();
     }
     // 33 getElementAttributeValue

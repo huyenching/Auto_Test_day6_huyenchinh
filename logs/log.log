@@ -1,0 +1,1359 @@
+[INFO ] 26-10-2025 15:37:42 [TestNG-test-Demo-2] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 15:37:47 [TestNG-test-Demo-1] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 15:37:52 [TestNG-test-Demo-1] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 15:37:54 [TestNG-test-Demo-4] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 15:37:55 [TestNG-test-Demo-3] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 15:37:58 [TestNG-test-Demo-1] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 15:37:59 [TestNG-test-Demo-4] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 15:38:03 [TestNG-test-Demo-2] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 15:38:19 [TestNG-test-Demo-1] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 15:38:23 [TestNG-test-Demo-1] Log - Step 2: Click vào menu Radiobutton màn hình Elements
+[INFO ] 26-10-2025 15:38:23 [TestNG-test-Demo-1] Log - Step 3: Click vào Yes 
+[INFO ] 26-10-2025 15:38:42 [TestNG-test-Demo-4] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 15:38:46 [TestNG-test-Demo-4] Log - Step 2: Click vào menu Radiobutton màn hình Elements
+[INFO ] 26-10-2025 15:38:46 [TestNG-test-Demo-4] Log - Step 3: Kiểm tra nút No
+[INFO ] 26-10-2025 15:39:01 [TestNG-test-Demo-3] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 15:39:02 [TestNG-test-Demo-3] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 15:39:03 [TestNG-test-Demo-1] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 15:39:07 [TestNG-test-Demo-1] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 15:39:09 [TestNG-test-Demo-3] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 15:39:17 [TestNG-test-Demo-4] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 15:39:21 [TestNG-test-Demo-4] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 15:39:23 [TestNG-test-Demo-1] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 15:39:26 [TestNG-test-Demo-2] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 15:39:26 [TestNG-test-Demo-3] Log - Step 2: Click vào menu Button màn hình Elements
+[INFO ] 26-10-2025 15:39:27 [TestNG-test-Demo-1] Log - Step 2: Click vào menu Radiobutton màn hình Elements
+[INFO ] 26-10-2025 15:39:35 [TestNG-test-Demo-4] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 15:39:38 [TestNG-test-Demo-4] Log - Step 2: Click vào menu Upload and Download màn hình Elements
+[INFO ] 26-10-2025 15:39:49 [TestNG-test-Demo-4] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 15:39:52 [TestNG-test-Demo-4] Log - Step 2: Click vào menu Dynamic Properties màn hình Elements
+[INFO ] 26-10-2025 15:39:52 [TestNG-test-Demo-4] Log - Step 3: Kiểm tra ban đầu nút bị disable
+[INFO ] 26-10-2025 15:39:52 [TestNG-test-Demo-4] Log - Step 4: Chờ đến khi nút được bật lại
+[INFO ] 26-10-2025 15:39:57 [TestNG-test-Demo-4] Log - Step 5: Kiểm tra sau khi chờ
+[INFO ] 26-10-2025 15:40:06 [TestNG-test-Demo-3] Log - Step1: Click vào menu Alerts, Frame & Windows màn hình homepage
+[INFO ] 26-10-2025 15:40:07 [TestNG-test-Demo-4] Log - Step1: Click vào menu Forms màn hình homepage
+[INFO ] 26-10-2025 15:40:10 [TestNG-test-Demo-3] Log - Step 2: Click vào menu Alerts màn hình Alerts, Frame & Windows
+[INFO ] 26-10-2025 15:40:27 [TestNG-test-Demo-2] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 15:40:37 [TestNG-test-Demo-1] Log - Step1: Click vào menu Widgets màn hình homepage
+[INFO ] 26-10-2025 15:40:41 [TestNG-test-Demo-1] Log - Step 2: Click vào menu Date Picker Form màn hình Widgets
+[INFO ] 26-10-2025 15:41:10 [TestNG-test-Demo-4] Log - Step 2: Click vào menu Practice Form màn hình Forms
+[INFO ] 26-10-2025 15:50:11 [TestNG-test-Demo-3] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 15:50:19 [TestNG-test-Demo-2] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 15:50:20 [TestNG-test-Demo-4] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 15:50:24 [TestNG-test-Demo-2] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 15:50:25 [TestNG-test-Demo-3] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 15:50:31 [TestNG-test-Demo-1] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 15:50:35 [TestNG-test-Demo-1] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 15:50:40 [TestNG-test-Demo-1] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 15:50:49 [TestNG-test-Demo-1] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 15:50:53 [TestNG-test-Demo-1] Log - Step 2: Click vào menu Radiobutton màn hình Elements
+[INFO ] 26-10-2025 15:50:53 [TestNG-test-Demo-1] Log - Step 3: Click vào Yes 
+[INFO ] 26-10-2025 15:51:03 [TestNG-test-Demo-2] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 15:51:07 [TestNG-test-Demo-2] Log - Step 2: Click vào menu Radiobutton màn hình Elements
+[INFO ] 26-10-2025 15:51:07 [TestNG-test-Demo-2] Log - Step 3: Kiểm tra nút No
+[INFO ] 26-10-2025 15:51:24 [TestNG-test-Demo-4] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 15:51:24 [TestNG-test-Demo-4] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 15:51:28 [TestNG-test-Demo-3] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 15:51:31 [TestNG-test-Demo-2] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 15:51:31 [TestNG-test-Demo-4] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 15:51:38 [TestNG-test-Demo-1] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 15:51:41 [TestNG-test-Demo-2] Log - Step 2: Click vào menu Button màn hình Elements
+[INFO ] 26-10-2025 15:51:42 [TestNG-test-Demo-3] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 15:51:45 [TestNG-test-Demo-4] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 15:52:19 [TestNG-test-Demo-2] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 15:52:22 [TestNG-test-Demo-2] Log - Step 2: Click vào menu Radiobutton màn hình Elements
+[INFO ] 26-10-2025 15:52:22 [TestNG-test-Demo-2] Log - Step 3: Kiểm tra nút Created Links
+[INFO ] 26-10-2025 15:52:22 [TestNG-test-Demo-2] Log - Step 4:Kiểm tra thông báo chứa 201
+[INFO ] 26-10-2025 15:52:30 [TestNG-test-Demo-2] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 15:52:33 [TestNG-test-Demo-2] Log - Step 2: Click vào menu Upload and Download màn hình Elements
+[INFO ] 26-10-2025 15:52:34 [TestNG-test-Demo-2] Log - Step 3: Click chọn file 
+[INFO ] 26-10-2025 15:52:35 [TestNG-test-Demo-2] Log - Step 4:Kiểm tra file path hieern thị tên file
+[INFO ] 26-10-2025 15:52:47 [TestNG-test-Demo-2] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 15:52:50 [TestNG-test-Demo-2] Log - Step 2: Click vào menu Dynamic Properties màn hình Elements
+[INFO ] 26-10-2025 15:52:50 [TestNG-test-Demo-2] Log - Step 3: Kiểm tra ban đầu nút bị disable
+[INFO ] 26-10-2025 15:52:50 [TestNG-test-Demo-2] Log - Step 4: Chờ đến khi nút được bật lại
+[INFO ] 26-10-2025 15:52:51 [TestNG-test-Demo-3] Log - Step1: Click vào menu Alerts, Frame & Windows màn hình homepage
+[INFO ] 26-10-2025 15:52:54 [TestNG-test-Demo-3] Log - Step 2: Click vào menu Alerts màn hình Alerts, Frame & Windows
+[INFO ] 26-10-2025 15:52:54 [TestNG-test-Demo-3] Log - Step 3: Click chọn Click me để mở alerts đơn giản 
+[INFO ] 26-10-2025 15:52:55 [TestNG-test-Demo-3] Log - Step 4:accept sau khi click me 
+[INFO ] 26-10-2025 15:52:56 [TestNG-test-Demo-2] Log - Step 5: Kiểm tra sau khi chờ
+[INFO ] 26-10-2025 15:53:02 [TestNG-test-Demo-3] Log - Step1: Click vào menu Forms màn hình homepage
+[INFO ] 26-10-2025 15:53:06 [TestNG-test-Demo-3] Log - Step 2: Click vào menu Practice Form màn hình Forms
+[INFO ] 26-10-2025 15:53:06 [TestNG-test-Demo-3] Log - Step 3: Điền thng tin vào form 
+[INFO ] 26-10-2025 15:53:07 [TestNG-test-Demo-2] Log - Step1: Click vào menu Widgets màn hình homepage
+[INFO ] 26-10-2025 15:53:10 [TestNG-test-Demo-2] Log - Step 2: Click vào menu Date Picker Form màn hình Widgets
+[INFO ] 26-10-2025 15:53:10 [TestNG-test-Demo-2] Log - Step 3: Chọn ngày 1 
+[INFO ] 26-10-2025 15:53:12 [TestNG-test-Demo-1] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 15:53:43 [TestNG-test-Demo-1] Log - Step 3: Tìm hàng có First Name = Cierra
+[INFO ] 26-10-2025 16:03:52 [TestNG-test-Demo-4] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:03:52 [TestNG-test-Demo-1] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:03:52 [TestNG-test-Demo-2] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:03:53 [TestNG-test-Demo-2] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 16:03:55 [TestNG-test-Demo-3] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:03:56 [TestNG-test-Demo-3] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 16:03:56 [TestNG-test-Demo-3] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 16:03:57 [TestNG-test-Demo-3] Log - Step 4: Click vào Desktop trong checkbox
+[INFO ] 26-10-2025 16:03:58 [TestNG-test-Demo-3] Log - Step 5: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 16:04:00 [TestNG-test-Demo-2] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 16:04:08 [TestNG-test-Demo-1] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:04:09 [TestNG-test-Demo-4] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:04:09 [TestNG-test-Demo-1] Log - Step 2: Click vào menu Radiobutton màn hình Elements
+[INFO ] 26-10-2025 16:04:09 [TestNG-test-Demo-4] Log - Step 2: Click vào menu Radiobutton màn hình Elements
+[INFO ] 26-10-2025 16:04:12 [TestNG-test-Demo-1] Log - Step 3: Click vào Yes 
+[INFO ] 26-10-2025 16:04:12 [TestNG-test-Demo-4] Log - Step 3: Kiểm tra nút No
+[INFO ] 26-10-2025 16:04:13 [TestNG-test-Demo-3] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:04:14 [TestNG-test-Demo-3] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 16:04:17 [TestNG-test-Demo-3] Log - Step 3: Tìm hàng có First Name = Cierra
+[INFO ] 26-10-2025 16:04:17 [TestNG-test-Demo-2] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:04:17 [TestNG-test-Demo-3] Log - Step 4: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 16:04:17 [TestNG-test-Demo-2] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 16:04:19 [TestNG-test-Demo-2] Log - Step 3: Tìm hàng có Last Name = Alden
+[INFO ] 26-10-2025 16:04:25 [TestNG-test-Demo-3] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:04:25 [TestNG-test-Demo-3] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 16:04:27 [TestNG-test-Demo-3] Log - Step 3: Đếm số hàng nằm sau hàng có Age = 39
+[INFO ] 26-10-2025 16:04:28 [TestNG-test-Demo-3] Log - Số hàng phía sau: 9
+[INFO ] 26-10-2025 16:04:28 [TestNG-test-Demo-3] Log - Step 4: Kiểm tra số hàng hợp lệ
+[INFO ] 26-10-2025 16:04:36 [TestNG-test-Demo-3] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:04:36 [TestNG-test-Demo-3] Log - Step 2: Click vào menu Button màn hình Elements
+[INFO ] 26-10-2025 16:04:39 [TestNG-test-Demo-3] Log - Step 3:Double click nút 'Double Click Me'
+[INFO ] 26-10-2025 16:04:39 [TestNG-test-Demo-3] Log - Step 4: Verify thông báo hiển thị đúng sau khi double click
+[INFO ] 26-10-2025 16:04:50 [TestNG-test-Demo-1] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:04:50 [TestNG-test-Demo-1] Log - Step 2: Click vào menu Radiobutton màn hình Elements
+[INFO ] 26-10-2025 16:04:50 [TestNG-test-Demo-1] Log - Step 3: Kiểm tra nút Created Links
+[INFO ] 26-10-2025 16:04:57 [TestNG-test-Demo-2] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:04:57 [TestNG-test-Demo-2] Log - Step 2: Click vào menu Upload and Download màn hình Elements
+[INFO ] 26-10-2025 16:04:57 [TestNG-test-Demo-2] Log - Step 3: Click chọn file 
+[INFO ] 26-10-2025 16:04:59 [TestNG-test-Demo-2] Log - Step 4:Kiểm tra file path hieern thị tên file
+[INFO ] 26-10-2025 16:05:00 [TestNG-test-Demo-1] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:05:01 [TestNG-test-Demo-1] Log - Step 2: Click vào menu Dynamic Properties màn hình Elements
+[INFO ] 26-10-2025 16:05:01 [TestNG-test-Demo-1] Log - Step 3: Kiểm tra ban đầu nút bị disable
+[INFO ] 26-10-2025 16:05:02 [TestNG-test-Demo-1] Log - Step 4: Chờ đến khi nút được bật lại
+[INFO ] 26-10-2025 16:05:06 [TestNG-test-Demo-1] Log - Step 5: Kiểm tra sau khi chờ
+[INFO ] 26-10-2025 16:05:08 [TestNG-test-Demo-2] Log - Step1: Click vào menu Alerts, Frame & Windows màn hình homepage
+[INFO ] 26-10-2025 16:05:08 [TestNG-test-Demo-2] Log - Step 2: Click vào menu Alerts màn hình Alerts, Frame & Windows
+[INFO ] 26-10-2025 16:05:09 [TestNG-test-Demo-2] Log - Step 3: Click chọn Click me để mở alerts đơn giản 
+[INFO ] 26-10-2025 16:05:10 [TestNG-test-Demo-4] Log - Step1: Click vào menu Forms màn hình homepage
+[INFO ] 26-10-2025 16:05:10 [TestNG-test-Demo-4] Log - Step 2: Click vào menu Practice Form màn hình Forms
+[INFO ] 26-10-2025 16:05:10 [TestNG-test-Demo-4] Log - Step 3: Điền thng tin vào form 
+[INFO ] 26-10-2025 16:05:13 [TestNG-test-Demo-4] Log - Step 4: Nhấn nút submit
+[INFO ] 26-10-2025 16:05:13 [TestNG-test-Demo-4] Log - Step 5: Kiểm tra modal xác nhận hiển thị
+[INFO ] 26-10-2025 16:05:15 [TestNG-test-Demo-1] Log - Step1: Click vào menu Widgets màn hình homepage
+[INFO ] 26-10-2025 16:05:15 [TestNG-test-Demo-1] Log - Step 2: Click vào menu Date Picker Form màn hình Widgets
+[INFO ] 26-10-2025 16:05:15 [TestNG-test-Demo-1] Log - Step 3: Chọn ngày 1 
+[INFO ] 26-10-2025 16:15:25 [TestNG-test-Demo-2] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:15:33 [TestNG-test-Demo-2] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 16:15:34 [TestNG-test-Demo-1] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:15:34 [TestNG-test-Demo-4] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:15:36 [TestNG-test-Demo-4] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 16:15:36 [TestNG-test-Demo-1] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 16:15:36 [TestNG-test-Demo-4] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 16:15:40 [TestNG-test-Demo-2] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 16:15:42 [TestNG-test-Demo-1] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 16:15:46 [TestNG-test-Demo-3] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:15:46 [TestNG-test-Demo-3] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 16:15:46 [TestNG-test-Demo-3] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 16:15:48 [TestNG-test-Demo-3] Log - Step 4: Click vào Desktop trong checkbox
+[INFO ] 26-10-2025 16:15:48 [TestNG-test-Demo-3] Log - Step 5: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 16:15:52 [TestNG-test-Demo-2] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:15:52 [TestNG-test-Demo-4] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:15:52 [TestNG-test-Demo-2] Log - Step 2: Click vào menu Radiobutton màn hình Elements
+[INFO ] 26-10-2025 16:15:52 [TestNG-test-Demo-4] Log - Step 2: Click vào menu Radiobutton màn hình Elements
+[INFO ] 26-10-2025 16:15:53 [TestNG-test-Demo-2] Log - Step 3: Kiểm tra nút No
+[INFO ] 26-10-2025 16:15:53 [TestNG-test-Demo-4] Log - Step 3: Click vào Yes 
+[INFO ] 26-10-2025 16:15:56 [TestNG-test-Demo-1] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:15:56 [TestNG-test-Demo-1] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 16:15:59 [TestNG-test-Demo-1] Log - Step 3: Tìm hàng có First Name = Cierra
+[INFO ] 26-10-2025 16:16:00 [TestNG-test-Demo-1] Log - Step 4: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 16:16:03 [TestNG-test-Demo-3] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:16:04 [TestNG-test-Demo-3] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 16:16:06 [TestNG-test-Demo-3] Log - Step 3: Tìm hàng có Last Name = Alden
+[INFO ] 26-10-2025 16:16:11 [TestNG-test-Demo-1] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:16:11 [TestNG-test-Demo-1] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 16:16:13 [TestNG-test-Demo-1] Log - Step 3: Đếm số hàng nằm sau hàng có Age = 39
+[INFO ] 26-10-2025 16:16:14 [TestNG-test-Demo-1] Log - Số hàng phía sau: 9
+[INFO ] 26-10-2025 16:16:14 [TestNG-test-Demo-1] Log - Step 4: Kiểm tra số hàng hợp lệ
+[INFO ] 26-10-2025 16:16:22 [TestNG-test-Demo-1] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:16:22 [TestNG-test-Demo-1] Log - Step 2: Click vào menu Button màn hình Elements
+[INFO ] 26-10-2025 16:16:24 [TestNG-test-Demo-1] Log - Step 3:Double click nút 'Double Click Me'
+[INFO ] 26-10-2025 16:16:25 [TestNG-test-Demo-1] Log - Step 4: Verify thông báo hiển thị đúng sau khi double click
+[INFO ] 26-10-2025 16:16:35 [TestNG-test-Demo-4] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:16:35 [TestNG-test-Demo-4] Log - Step 2: Click vào menu Radiobutton màn hình Elements
+[INFO ] 26-10-2025 16:16:35 [TestNG-test-Demo-4] Log - Step 3: Kiểm tra nút Created Links
+[INFO ] 26-10-2025 16:16:36 [TestNG-test-Demo-4] Log - Step 4:Kiểm tra thông báo chứa 201
+[INFO ] 26-10-2025 16:16:37 [TestNG-test-Demo-2] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:16:38 [TestNG-test-Demo-2] Log - Step 2: Click vào menu Upload and Download màn hình Elements
+[INFO ] 26-10-2025 16:16:38 [TestNG-test-Demo-2] Log - Step 3: Click chọn file 
+[INFO ] 26-10-2025 16:16:39 [TestNG-test-Demo-2] Log - Step 4:Kiểm tra file path hieern thị tên file
+[INFO ] 26-10-2025 16:16:47 [TestNG-test-Demo-3] Log - Step1: Click vào menu Alerts, Frame & Windows màn hình homepage
+[INFO ] 26-10-2025 16:16:47 [TestNG-test-Demo-3] Log - Step 2: Click vào menu Alerts màn hình Alerts, Frame & Windows
+[INFO ] 26-10-2025 16:16:47 [TestNG-test-Demo-4] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:16:48 [TestNG-test-Demo-4] Log - Step 2: Click vào menu Dynamic Properties màn hình Elements
+[INFO ] 26-10-2025 16:16:48 [TestNG-test-Demo-3] Log - Step 3: Click chọn Click me để mở alerts đơn giản 
+[INFO ] 26-10-2025 16:16:49 [TestNG-test-Demo-2] Log - Step1: Click vào menu Forms màn hình homepage
+[INFO ] 26-10-2025 16:16:49 [TestNG-test-Demo-2] Log - Step 2: Click vào menu Practice Form màn hình Forms
+[INFO ] 26-10-2025 16:16:50 [TestNG-test-Demo-2] Log - Step 3: Điền thng tin vào form 
+[INFO ] 26-10-2025 16:16:52 [TestNG-test-Demo-2] Log - Step 4: Nhấn nút submit
+[INFO ] 26-10-2025 16:16:53 [TestNG-test-Demo-2] Log - Step 5: Kiểm tra modal xác nhận hiển thị
+[INFO ] 26-10-2025 16:17:01 [TestNG-test-Demo-2] Log - Step1: Click vào menu Widgets màn hình homepage
+[INFO ] 26-10-2025 16:17:01 [TestNG-test-Demo-2] Log - Step 2: Click vào menu Date Picker Form màn hình Widgets
+[INFO ] 26-10-2025 16:17:02 [TestNG-test-Demo-2] Log - Step 3: Chọn ngày 1 
+[INFO ] 26-10-2025 16:17:19 [TestNG-test-Demo-4] Log - Step 3: Kiểm tra ban đầu nút bị disable
+[INFO ] 26-10-2025 16:28:35 [TestNG-test-Demo-3] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:28:37 [TestNG-test-Demo-4] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:28:37 [TestNG-test-Demo-2] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:28:37 [TestNG-test-Demo-4] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 16:28:38 [TestNG-test-Demo-2] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 16:28:38 [TestNG-test-Demo-3] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 16:28:40 [TestNG-test-Demo-4] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 16:28:40 [TestNG-test-Demo-3] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 16:28:41 [TestNG-test-Demo-4] Log - Step 4: Click vào home trong checkbox
+[INFO ] 26-10-2025 16:28:41 [TestNG-test-Demo-3] Log - Step 4: Click vào Desktop trong checkbox
+[INFO ] 26-10-2025 16:28:41 [TestNG-test-Demo-3] Log - Step 5: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 16:28:42 [TestNG-test-Demo-1] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:28:43 [TestNG-test-Demo-1] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 16:28:43 [TestNG-test-Demo-1] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 16:28:45 [TestNG-test-Demo-2] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 16:28:49 [TestNG-test-Demo-1] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:28:58 [TestNG-test-Demo-4] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:28:58 [TestNG-test-Demo-3] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:28:58 [TestNG-test-Demo-4] Log - Step 2: Click vào menu Radiobutton màn hình Elements
+[INFO ] 26-10-2025 16:28:58 [TestNG-test-Demo-3] Log - Step 2: Click vào menu Radiobutton màn hình Elements
+[INFO ] 26-10-2025 16:28:59 [TestNG-test-Demo-4] Log - Step 3: Click vào Yes 
+[INFO ] 26-10-2025 16:28:59 [TestNG-test-Demo-3] Log - Step 3: Kiểm tra nút No
+[INFO ] 26-10-2025 16:29:00 [TestNG-test-Demo-2] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:29:00 [TestNG-test-Demo-2] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 16:29:00 [TestNG-test-Demo-1] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 16:29:02 [TestNG-test-Demo-2] Log - Step 3: Tìm hàng có Last Name = Alden
+[INFO ] 26-10-2025 16:29:03 [TestNG-test-Demo-1] Log - Step 3: Tìm hàng có First Name = Cierra
+[INFO ] 26-10-2025 16:29:38 [TestNG-test-Demo-4] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:29:39 [TestNG-test-Demo-4] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 16:29:40 [TestNG-test-Demo-2] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:29:41 [TestNG-test-Demo-2] Log - Step 2: Click vào menu Button màn hình Elements
+[INFO ] 26-10-2025 16:29:43 [TestNG-test-Demo-4] Log - Step 3: Đếm số hàng nằm sau hàng có Age = 39
+[INFO ] 26-10-2025 16:29:44 [TestNG-test-Demo-2] Log - Step 3:Double click nút 'Double Click Me'
+[INFO ] 26-10-2025 16:29:45 [TestNG-test-Demo-1] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:29:45 [TestNG-test-Demo-1] Log - Step 2: Click vào menu Radiobutton màn hình Elements
+[INFO ] 26-10-2025 16:29:45 [TestNG-test-Demo-1] Log - Step 3: Kiểm tra nút Created Links
+[INFO ] 26-10-2025 16:29:45 [TestNG-test-Demo-1] Log - Step 4:Kiểm tra thông báo chứa 201
+[INFO ] 26-10-2025 16:29:53 [TestNG-test-Demo-1] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:29:54 [TestNG-test-Demo-1] Log - Step 2: Click vào menu Upload and Download màn hình Elements
+[INFO ] 26-10-2025 16:29:54 [TestNG-test-Demo-1] Log - Step 3: Click chọn file 
+[INFO ] 26-10-2025 16:29:55 [TestNG-test-Demo-1] Log - Step 4:Kiểm tra file path hieern thị tên file
+[INFO ] 26-10-2025 16:29:57 [TestNG-test-Demo-3] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:29:58 [TestNG-test-Demo-3] Log - Step 2: Click vào menu Dynamic Properties màn hình Elements
+[INFO ] 26-10-2025 16:29:59 [TestNG-test-Demo-3] Log - Step 3: Kiểm tra ban đầu nút bị disable
+[INFO ] 26-10-2025 16:29:59 [TestNG-test-Demo-3] Log - Step 4: Chờ đến khi nút được bật lại
+[INFO ] 26-10-2025 16:30:04 [TestNG-test-Demo-1] Log - Step1: Click vào menu Alerts, Frame & Windows màn hình homepage
+[INFO ] 26-10-2025 16:30:04 [TestNG-test-Demo-3] Log - Step 5: Kiểm tra sau khi chờ
+[INFO ] 26-10-2025 16:30:04 [TestNG-test-Demo-1] Log - Step 2: Click vào menu Alerts màn hình Alerts, Frame & Windows
+[INFO ] 26-10-2025 16:30:13 [TestNG-test-Demo-2] Log - Step 4: Verify thông báo hiển thị đúng sau khi double click
+[INFO ] 26-10-2025 16:30:21 [TestNG-test-Demo-4] Log - Step1: Click vào menu Forms màn hình homepage
+[INFO ] 26-10-2025 16:30:21 [TestNG-test-Demo-4] Log - Step 2: Click vào menu Practice Form màn hình Forms
+[INFO ] 26-10-2025 16:30:21 [TestNG-test-Demo-4] Log - Step 3: Điền thng tin vào form 
+[INFO ] 26-10-2025 16:30:22 [TestNG-test-Demo-4] Log - Step 4: Nhấn nút submit
+[INFO ] 26-10-2025 16:30:22 [TestNG-test-Demo-4] Log - Step 5: Kiểm tra modal xác nhận hiển thị
+[INFO ] 26-10-2025 16:30:31 [TestNG-test-Demo-4] Log - Step1: Click vào menu Widgets màn hình homepage
+[INFO ] 26-10-2025 16:30:31 [TestNG-test-Demo-4] Log - Step 2: Click vào menu Date Picker Form màn hình Widgets
+[INFO ] 26-10-2025 16:30:31 [TestNG-test-Demo-4] Log - Step 3: Chọn ngày 1 
+[INFO ] 26-10-2025 16:31:04 [TestNG-test-Demo-1] Log - Step 3: Click chọn Click me để mở alerts đơn giản 
+[INFO ] 26-10-2025 16:39:09 [TestNG-test-Demo-3] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:39:10 [TestNG-test-Demo-3] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 16:39:10 [TestNG-test-Demo-4] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:39:11 [TestNG-test-Demo-1] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:39:11 [TestNG-test-Demo-2] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:39:13 [TestNG-test-Demo-2] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 16:39:14 [TestNG-test-Demo-1] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 16:39:17 [TestNG-test-Demo-2] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 16:39:17 [TestNG-test-Demo-1] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 16:39:17 [TestNG-test-Demo-4] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 16:39:17 [TestNG-test-Demo-3] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 16:39:38 [TestNG-test-Demo-1] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:39:38 [TestNG-test-Demo-1] Log - Step 2: Click vào menu Radiobutton màn hình Elements
+[INFO ] 26-10-2025 16:39:38 [TestNG-test-Demo-1] Log - Step 3: Click vào Yes 
+[INFO ] 26-10-2025 16:39:47 [TestNG-test-Demo-4] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 16:39:59 [TestNG-test-Demo-3] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:39:59 [TestNG-test-Demo-3] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 16:40:01 [TestNG-test-Demo-3] Log - Step 3: Tìm hàng có First Name = Cierra
+[INFO ] 26-10-2025 16:40:01 [TestNG-test-Demo-3] Log - Step 4: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 16:40:05 [TestNG-test-Demo-2] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:40:05 [TestNG-test-Demo-2] Log - Step 2: Click vào menu Radiobutton màn hình Elements
+[INFO ] 26-10-2025 16:40:05 [TestNG-test-Demo-2] Log - Step 3: Kiểm tra nút No
+[INFO ] 26-10-2025 16:40:10 [TestNG-test-Demo-3] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:40:10 [TestNG-test-Demo-3] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 16:40:12 [TestNG-test-Demo-3] Log - Step 3: Tìm hàng có Last Name = Alden
+[INFO ] 26-10-2025 16:40:32 [TestNG-test-Demo-2] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:40:32 [TestNG-test-Demo-2] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 16:40:34 [TestNG-test-Demo-2] Log - Step 3: Đếm số hàng nằm sau hàng có Age = 39
+[INFO ] 26-10-2025 16:40:34 [TestNG-test-Demo-2] Log - Số hàng phía sau: 9
+[INFO ] 26-10-2025 16:40:34 [TestNG-test-Demo-2] Log - Step 4: Kiểm tra số hàng hợp lệ
+[INFO ] 26-10-2025 16:40:43 [TestNG-test-Demo-2] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:40:43 [TestNG-test-Demo-2] Log - Step 2: Click vào menu Button màn hình Elements
+[INFO ] 26-10-2025 16:40:45 [TestNG-test-Demo-2] Log - Step 3:Double click nút 'Double Click Me'
+[INFO ] 26-10-2025 16:40:49 [TestNG-test-Demo-2] Log - Step 4: Verify thông báo hiển thị đúng sau khi double click
+[INFO ] 26-10-2025 16:40:49 [TestNG-test-Demo-1] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:40:50 [TestNG-test-Demo-1] Log - Step 2: Click vào menu Radiobutton màn hình Elements
+[INFO ] 26-10-2025 16:40:50 [TestNG-test-Demo-4] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:40:50 [TestNG-test-Demo-1] Log - Step 3: Kiểm tra nút Created Links
+[INFO ] 26-10-2025 16:41:01 [TestNG-test-Demo-3] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 16:41:01 [TestNG-test-Demo-3] Log - Step 2: Click vào menu Dynamic Properties màn hình Elements
+[INFO ] 26-10-2025 16:41:02 [TestNG-test-Demo-3] Log - Step 3: Kiểm tra ban đầu nút bị disable
+[INFO ] 26-10-2025 16:41:02 [TestNG-test-Demo-3] Log - Step 4: Chờ đến khi nút được bật lại
+[INFO ] 26-10-2025 16:41:07 [TestNG-test-Demo-3] Log - Step 5: Kiểm tra sau khi chờ
+[INFO ] 26-10-2025 16:41:20 [TestNG-test-Demo-3] Log - Step1: Click vào menu Alerts, Frame & Windows màn hình homepage
+[INFO ] 26-10-2025 16:41:20 [TestNG-test-Demo-3] Log - Step 2: Click vào menu Alerts màn hình Alerts, Frame & Windows
+[INFO ] 26-10-2025 16:41:20 [TestNG-test-Demo-3] Log - Step 3: Click chọn Click me để mở alerts đơn giản 
+[INFO ] 26-10-2025 16:41:20 [TestNG-test-Demo-3] Log - Step 4:accept sau khi click me 
+[INFO ] 26-10-2025 16:41:20 [TestNG-test-Demo-4] Log - Step 2: Click vào menu Upload and Download màn hình Elements
+[INFO ] 26-10-2025 16:41:27 [TestNG-test-Demo-2] Log - Step1: Click vào menu Forms màn hình homepage
+[INFO ] 26-10-2025 16:41:27 [TestNG-test-Demo-2] Log - Step 2: Click vào menu Practice Form màn hình Forms
+[INFO ] 26-10-2025 16:41:27 [TestNG-test-Demo-2] Log - Step 3: Điền thng tin vào form 
+[INFO ] 26-10-2025 16:41:29 [TestNG-test-Demo-2] Log - Step 4: Nhấn nút submit
+[INFO ] 26-10-2025 16:41:29 [TestNG-test-Demo-2] Log - Step 5: Kiểm tra modal xác nhận hiển thị
+[INFO ] 26-10-2025 16:41:30 [TestNG-test-Demo-1] Log - Step1: Click vào menu Widgets màn hình homepage
+[INFO ] 26-10-2025 16:41:31 [TestNG-test-Demo-1] Log - Step 2: Click vào menu Date Picker Form màn hình Widgets
+[INFO ] 26-10-2025 16:41:31 [TestNG-test-Demo-1] Log - Step 3: Chọn ngày 1 
+[INFO ] 26-10-2025 17:15:03 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:15:03 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 17:15:03 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 17:15:12 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:15:12 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 17:15:12 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 17:15:26 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:15:26 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 17:15:26 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 17:15:26 [main] Log - Step 4: Click vào Desktop trong checkbox
+[INFO ] 26-10-2025 17:15:26 [main] Log - Step 5: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 17:15:34 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:15:34 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 17:15:34 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 17:15:34 [main] Log - Step 4: Click vào home trong checkbox
+[INFO ] 26-10-2025 17:15:42 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:15:42 [main] Log - Step 2: Click vào menu Radiobutton màn hình Elements
+[INFO ] 26-10-2025 17:15:42 [main] Log - Step 3: Click vào Yes 
+[INFO ] 26-10-2025 17:15:49 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:15:49 [main] Log - Step 2: Click vào menu Radiobutton màn hình Elements
+[INFO ] 26-10-2025 17:15:49 [main] Log - Step 3: Kiểm tra nút No
+[INFO ] 26-10-2025 17:16:16 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:16:16 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 17:16:18 [main] Log - Step 3: Tìm hàng có First Name = Cierra
+[INFO ] 26-10-2025 17:16:18 [main] Log - Step 4: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 17:16:24 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:16:24 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 17:16:27 [main] Log - Step 3: Tìm hàng có Last Name = Alden
+[INFO ] 26-10-2025 17:17:02 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:17:02 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 17:17:04 [main] Log - Step 3: Đếm số hàng nằm sau hàng có Age = 39
+[INFO ] 26-10-2025 17:17:04 [main] Log - Số hàng phía sau: 9
+[INFO ] 26-10-2025 17:17:04 [main] Log - Step 4: Kiểm tra số hàng hợp lệ
+[INFO ] 26-10-2025 17:17:11 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:17:11 [main] Log - Step 2: Click vào menu Button màn hình Elements
+[INFO ] 26-10-2025 17:17:13 [main] Log - Step 3:Double click nút 'Double Click Me'
+[INFO ] 26-10-2025 17:17:13 [main] Log - Step 4: Verify thông báo hiển thị đúng sau khi double click
+[INFO ] 26-10-2025 17:17:49 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:17:49 [main] Log - Step 2: Click vào menu LINKS màn hình Elements
+[INFO ] 26-10-2025 17:17:49 [main] Log - Step 3: Kiểm tra nút Created Links
+[INFO ] 26-10-2025 17:17:49 [main] Log - Step 4:Kiểm tra thông báo chứa 201
+[INFO ] 26-10-2025 17:17:56 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:17:56 [main] Log - Step 2: Click vào menu Upload and Download màn hình Elements
+[INFO ] 26-10-2025 17:17:56 [main] Log - Step 3: Click chọn file 
+[INFO ] 26-10-2025 17:17:57 [main] Log - Step 4:Kiểm tra file path hieern thị tên file
+[INFO ] 26-10-2025 17:18:05 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:18:05 [main] Log - Step 2: Click vào menu Dynamic Properties màn hình Elements
+[INFO ] 26-10-2025 17:18:05 [main] Log - Step 3: Kiểm tra ban đầu nút bị disable
+[INFO ] 26-10-2025 17:18:05 [main] Log - Step 4: Chờ đến khi nút được bật lại
+[INFO ] 26-10-2025 17:18:11 [main] Log - Step 5: Kiểm tra sau khi chờ
+[INFO ] 26-10-2025 17:18:17 [main] Log - Step1: Click vào menu Alerts, Frame & Windows màn hình homepage
+[INFO ] 26-10-2025 17:18:17 [main] Log - Step 2: Click vào menu Alerts màn hình Alerts, Frame & Windows
+[INFO ] 26-10-2025 17:18:17 [main] Log - Step 3: Click chọn Click me để mở alerts đơn giản 
+[INFO ] 26-10-2025 17:18:17 [main] Log - Step 4:accept sau khi click me 
+[INFO ] 26-10-2025 17:18:24 [main] Log - Step1: Click vào menu Forms màn hình homepage
+[INFO ] 26-10-2025 17:18:24 [main] Log - Step 2: Click vào menu Practice Form màn hình Forms
+[INFO ] 26-10-2025 17:18:24 [main] Log - Step 3: Điền thng tin vào form 
+[INFO ] 26-10-2025 17:18:25 [main] Log - Step 4: Nhấn nút submit
+[INFO ] 26-10-2025 17:18:25 [main] Log - Step 5: Kiểm tra modal xác nhận hiển thị
+[INFO ] 26-10-2025 17:18:32 [main] Log - Step1: Click vào menu Widgets màn hình homepage
+[INFO ] 26-10-2025 17:18:32 [main] Log - Step 2: Click vào menu Date Picker Form màn hình Widgets
+[INFO ] 26-10-2025 17:18:32 [main] Log - Step 3: Mở picker
+[INFO ] 26-10-2025 17:25:09 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:25:09 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 17:25:09 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 17:25:10 [main] Log - Step 4: Nhập Email vào Textbox Email
+[INFO ] 26-10-2025 17:25:10 [main] Log - Step 5: Nhập CurrentAddress vào Textbox CurrentAddress
+[INFO ] 26-10-2025 17:25:11 [main] Log - Step 6: Nhập PermanentAddress vào Textbox PermanentAddress
+[INFO ] 26-10-2025 17:25:11 [main] Log - Step 7: Click Button Submit
+[INFO ] 26-10-2025 17:25:11 [main] Log - Step 8: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 17:25:20 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:25:20 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 17:25:20 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 17:25:21 [main] Log - Step 4: Nhập Email vào Textbox Email
+[INFO ] 26-10-2025 17:25:21 [main] Log - Step 5: Nhập CurrentAddress vào Textbox CurrentAddress
+[INFO ] 26-10-2025 17:25:21 [main] Log - Step 6: Nhập PermanentAddress vào Textbox PermanentAddress
+[INFO ] 26-10-2025 17:25:21 [main] Log - Step 7: Click Button Submit
+[INFO ] 26-10-2025 17:25:21 [main] Log - Step 8: Kiểm tra class của ô email
+[INFO ] 26-10-2025 17:25:21 [main] Log - Step 9: Verify không có output hiển thị
+[INFO ] 26-10-2025 17:25:27 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:25:27 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 17:25:27 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 17:25:28 [main] Log - Step 4: Click vào Desktop trong checkbox
+[INFO ] 26-10-2025 17:25:28 [main] Log - Step 5: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 17:25:34 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:25:34 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 17:25:34 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 17:25:34 [main] Log - Step 4: Click vào home trong checkbox
+[INFO ] 26-10-2025 17:25:41 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:25:41 [main] Log - Step 2: Click vào menu Radiobutton màn hình Elements
+[INFO ] 26-10-2025 17:25:41 [main] Log - Step 3: Click vào Yes 
+[INFO ] 26-10-2025 17:26:18 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:26:18 [main] Log - Step 2: Click vào menu Radiobutton màn hình Elements
+[INFO ] 26-10-2025 17:26:18 [main] Log - Step 3: Kiểm tra nút No
+[INFO ] 26-10-2025 17:26:45 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:26:45 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 17:26:47 [main] Log - Step 3: Tìm hàng có First Name = Cierra
+[INFO ] 26-10-2025 17:26:47 [main] Log - Step 4: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 17:26:53 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:26:53 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 17:26:55 [main] Log - Step 3: Tìm hàng có Last Name = Alden
+[INFO ] 26-10-2025 17:27:32 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:27:32 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 17:27:34 [main] Log - Step 3: Đếm số hàng nằm sau hàng có Age = 39
+[INFO ] 26-10-2025 17:27:35 [main] Log - Số hàng phía sau: 9
+[INFO ] 26-10-2025 17:27:35 [main] Log - Step 4: Kiểm tra số hàng hợp lệ
+[INFO ] 26-10-2025 17:27:43 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:27:43 [main] Log - Step 2: Click vào menu Button màn hình Elements
+[INFO ] 26-10-2025 17:27:45 [main] Log - Step 3:Double click nút 'Double Click Me'
+[INFO ] 26-10-2025 17:27:45 [main] Log - Step 4: Verify thông báo hiển thị đúng sau khi double click
+[INFO ] 26-10-2025 17:27:52 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:27:52 [main] Log - Step 2: Click vào menu LINKS màn hình Elements
+[INFO ] 26-10-2025 17:27:52 [main] Log - Step 3: Kiểm tra nút Created Links
+[INFO ] 26-10-2025 17:27:52 [main] Log - Step 4:Kiểm tra thông báo chứa 201
+[INFO ] 26-10-2025 17:27:59 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:27:59 [main] Log - Step 2: Click vào menu Upload and Download màn hình Elements
+[INFO ] 26-10-2025 17:27:59 [main] Log - Step 3: Click chọn file 
+[INFO ] 26-10-2025 17:28:00 [main] Log - Step 4:Kiểm tra file path hieern thị tên file
+[INFO ] 26-10-2025 17:28:09 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:28:09 [main] Log - Step 2: Click vào menu Dynamic Properties màn hình Elements
+[INFO ] 26-10-2025 17:28:09 [main] Log - Step 3: Kiểm tra ban đầu nút bị disable
+[INFO ] 26-10-2025 17:28:09 [main] Log - Step 4: Chờ đến khi nút được bật lại
+[INFO ] 26-10-2025 17:28:14 [main] Log - Step 5: Kiểm tra sau khi chờ
+[INFO ] 26-10-2025 17:28:22 [main] Log - Step1: Click vào menu Alerts, Frame & Windows màn hình homepage
+[INFO ] 26-10-2025 17:28:22 [main] Log - Step 2: Click vào menu Alerts màn hình Alerts, Frame & Windows
+[INFO ] 26-10-2025 17:28:22 [main] Log - Step 3: Click chọn Click me để mở alerts đơn giản 
+[INFO ] 26-10-2025 17:28:22 [main] Log - Step 4:accept sau khi click me 
+[INFO ] 26-10-2025 17:28:29 [main] Log - Step1: Click vào menu Forms màn hình homepage
+[INFO ] 26-10-2025 17:28:29 [main] Log - Step 2: Click vào menu Practice Form màn hình Forms
+[INFO ] 26-10-2025 17:28:30 [main] Log - Step 3: Điền thng tin vào form 
+[INFO ] 26-10-2025 17:28:31 [main] Log - Step 4: Nhấn nút submit
+[INFO ] 26-10-2025 17:28:31 [main] Log - Step 5: Kiểm tra modal xác nhận hiển thị
+[INFO ] 26-10-2025 17:28:38 [main] Log - Step1: Click vào menu Widgets màn hình homepage
+[INFO ] 26-10-2025 17:28:38 [main] Log - Step 2: Click vào menu Date Picker Form màn hình Widgets
+[INFO ] 26-10-2025 17:28:38 [main] Log - Step 3: Mở picker
+[INFO ] 26-10-2025 17:28:39 [main] Log - Step 4: Chọn ngày 1 
+[INFO ] 26-10-2025 17:28:39 [main] Log - Step 5: Mở li picker
+[INFO ] 26-10-2025 17:28:39 [main] Log - Step 6 Chọn ngày 31 (Nếu có)
+[INFO ] 26-10-2025 17:48:11 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:48:11 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 17:48:12 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 17:48:12 [main] Log - Step 4: Nhập Email vào Textbox Email
+[INFO ] 26-10-2025 17:48:13 [main] Log - Step 5: Nhập CurrentAddress vào Textbox CurrentAddress
+[INFO ] 26-10-2025 17:48:13 [main] Log - Step 6: Nhập PermanentAddress vào Textbox PermanentAddress
+[INFO ] 26-10-2025 17:48:13 [main] Log - Step 7: Click Button Submit
+[INFO ] 26-10-2025 17:48:13 [main] Log - Step 8: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 17:48:20 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:48:20 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 17:48:20 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 17:48:21 [main] Log - Step 4: Nhập Email vào Textbox Email
+[INFO ] 26-10-2025 17:48:21 [main] Log - Step 5: Nhập CurrentAddress vào Textbox CurrentAddress
+[INFO ] 26-10-2025 17:48:21 [main] Log - Step 6: Nhập PermanentAddress vào Textbox PermanentAddress
+[INFO ] 26-10-2025 17:48:21 [main] Log - Step 7: Click Button Submit
+[INFO ] 26-10-2025 17:48:21 [main] Log - Step 8: Kiểm tra class của ô email
+[INFO ] 26-10-2025 17:48:21 [main] Log - Step 9: Verify không có output hiển thị
+[INFO ] 26-10-2025 17:48:48 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:48:48 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 17:48:48 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 17:48:48 [main] Log - Step 4: Click vào Desktop trong checkbox
+[INFO ] 26-10-2025 17:48:48 [main] Log - Step 5: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 17:48:55 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:48:55 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 17:48:55 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 17:48:55 [main] Log - Step 4: Click vào home trong checkbox
+[INFO ] 26-10-2025 17:49:02 [main] Log - Step 1: Click vào menu Elements trên homepage
+[INFO ] 26-10-2025 17:49:02 [main] Log - Step 2: Click vào menu Radio Button trên màn hình Elements
+[INFO ] 26-10-2025 17:49:02 [main] Log - Step 3: Chọn radio button 'Yes'
+[INFO ] 26-10-2025 17:49:02 [main] Log - Step 4: Verify kết quả hiển thị ra màn hình
+[INFO ] 26-10-2025 17:49:38 [main] Log - Step 1: Click vào menu Elements trên homepage
+[INFO ] 26-10-2025 17:49:38 [main] Log - Step 2: Click vào menu Radio Button trên màn hình Elements
+[INFO ] 26-10-2025 17:49:38 [main] Log - Step 3: Kiểm tra radio button 'No' có bị vô hiệu hóa không
+[INFO ] 26-10-2025 17:49:45 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:49:45 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 17:49:47 [main] Log - Step 3: Tìm hàng có First Name = Cierra
+[INFO ] 26-10-2025 17:49:47 [main] Log - Step 4: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 17:49:54 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:49:54 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 17:49:56 [main] Log - Step 3: Tìm hàng có Last Name = Alden
+[INFO ] 26-10-2025 17:50:32 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:50:32 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 17:50:34 [main] Log - Step 3: Đếm số hàng nằm sau hàng có Age = 39
+[INFO ] 26-10-2025 17:50:34 [main] Log - Số hàng phía sau: 9
+[INFO ] 26-10-2025 17:50:34 [main] Log - Step 4: Kiểm tra số hàng hợp lệ
+[INFO ] 26-10-2025 17:50:41 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:50:41 [main] Log - Step 2: Click vào menu Button màn hình Elements
+[INFO ] 26-10-2025 17:50:43 [main] Log - Step 3:Double click nút 'Double Click Me'
+[INFO ] 26-10-2025 17:50:43 [main] Log - Step 4: Verify thông báo hiển thị đúng sau khi double click
+[INFO ] 26-10-2025 17:51:20 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:51:20 [main] Log - Step 2: Click vào menu LINKS màn hình Elements
+[INFO ] 26-10-2025 17:51:20 [main] Log - Step 3: Kiểm tra nút Created Links
+[INFO ] 26-10-2025 17:51:20 [main] Log - Step 4:Kiểm tra thông báo chứa 201
+[INFO ] 26-10-2025 17:51:27 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:51:27 [main] Log - Step 2: Click vào menu Upload and Download màn hình Elements
+[INFO ] 26-10-2025 17:51:27 [main] Log - Step 3: Click chọn file 
+[INFO ] 26-10-2025 17:51:28 [main] Log - Step 4:Kiểm tra file path hieern thị tên file
+[INFO ] 26-10-2025 17:51:39 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 17:51:39 [main] Log - Step 2: Click vào menu Dynamic Properties màn hình Elements
+[INFO ] 26-10-2025 17:51:40 [main] Log - Step 3: Kiểm tra ban đầu nút bị disable
+[INFO ] 26-10-2025 17:51:40 [main] Log - Step 4: Chờ đến khi nút được bật lại
+[INFO ] 26-10-2025 17:51:45 [main] Log - Step 5: Kiểm tra sau khi chờ
+[INFO ] 26-10-2025 17:51:53 [main] Log - Step1: Click vào menu Alerts, Frame & Windows màn hình homepage
+[INFO ] 26-10-2025 17:51:53 [main] Log - Step 2: Click vào menu Alerts màn hình Alerts, Frame & Windows
+[INFO ] 26-10-2025 17:51:53 [main] Log - Step 3: Click chọn Click me để mở alerts đơn giản 
+[INFO ] 26-10-2025 17:51:53 [main] Log - Step 4:accept sau khi click me 
+[INFO ] 26-10-2025 17:51:59 [main] Log - Step1: Click vào menu Forms màn hình homepage
+[INFO ] 26-10-2025 17:51:59 [main] Log - Step 2: Click vào menu Practice Form màn hình Forms
+[INFO ] 26-10-2025 17:51:59 [main] Log - Step 3: Điền thng tin vào form 
+[INFO ] 26-10-2025 17:52:00 [main] Log - Step 4: Nhấn nút submit
+[INFO ] 26-10-2025 17:52:00 [main] Log - Step 5: Kiểm tra modal xác nhận hiển thị
+[INFO ] 26-10-2025 17:52:06 [main] Log - Step1: Click vào menu Widgets màn hình homepage
+[INFO ] 26-10-2025 17:52:06 [main] Log - Step 2: Click vào menu Date Picker Form màn hình Widgets
+[INFO ] 26-10-2025 17:52:07 [main] Log - Step 3: Mở picker
+[INFO ] 26-10-2025 17:52:07 [main] Log - Step 4: Chọn ngày 1 
+[INFO ] 26-10-2025 17:52:07 [main] Log - Step 5: Mở li picker
+[INFO ] 26-10-2025 17:52:07 [main] Log - Step 6 Chọn ngày 31 (Nếu có)
+[INFO ] 26-10-2025 18:25:57 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 18:25:57 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 18:25:57 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 18:25:57 [main] Log - Step 4: Nhập Email vào Textbox Email
+[INFO ] 26-10-2025 18:25:58 [main] Log - Step 5: Nhập CurrentAddress vào Textbox CurrentAddress
+[INFO ] 26-10-2025 18:25:58 [main] Log - Step 6: Nhập PermanentAddress vào Textbox PermanentAddress
+[INFO ] 26-10-2025 18:25:58 [main] Log - Step 7: Click Button Submit
+[INFO ] 26-10-2025 18:25:58 [main] Log - Step 8: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 18:26:07 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 18:26:07 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 18:26:07 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 18:26:08 [main] Log - Step 4: Nhập Email vào Textbox Email
+[INFO ] 26-10-2025 18:26:08 [main] Log - Step 5: Nhập CurrentAddress vào Textbox CurrentAddress
+[INFO ] 26-10-2025 18:26:08 [main] Log - Step 6: Nhập PermanentAddress vào Textbox PermanentAddress
+[INFO ] 26-10-2025 18:26:08 [main] Log - Step 7: Click Button Submit
+[INFO ] 26-10-2025 18:26:09 [main] Log - Step 8: Kiểm tra class của ô email
+[INFO ] 26-10-2025 18:26:09 [main] Log - Step 9: Verify không có output hiển thị
+[INFO ] 26-10-2025 18:26:37 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 18:26:37 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 18:26:37 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 18:26:38 [main] Log - Step 4: Click vào Desktop trong checkbox
+[INFO ] 26-10-2025 18:26:38 [main] Log - Step 5: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 18:26:45 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 18:26:45 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 18:26:45 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 18:26:46 [main] Log - Step 4: Click vào home trong checkbox
+[INFO ] 26-10-2025 18:26:53 [main] Log - Step 1: Click vào menu Elements trên homepage
+[INFO ] 26-10-2025 18:26:53 [main] Log - Step 2: Click vào menu Radio Button trên màn hình Elements
+[INFO ] 26-10-2025 18:26:53 [main] Log - Step 3: Chọn radio button 'Yes'
+[INFO ] 26-10-2025 18:26:54 [main] Log - Step 4: Verify kết quả hiển thị ra màn hình
+[INFO ] 26-10-2025 18:27:42 [main] Log - Step 1: Click vào menu Elements trên homepage
+[INFO ] 26-10-2025 18:27:42 [main] Log - Step 2: Click vào menu Radio Button trên màn hình Elements
+[INFO ] 26-10-2025 18:27:42 [main] Log - Step 3: Kiểm tra radio button 'No' có bị vô hiệu hóa không
+[INFO ] 26-10-2025 18:27:50 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 18:27:50 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 18:27:52 [main] Log - Step 3: Tìm hàng có First Name = Cierra
+[INFO ] 26-10-2025 18:27:52 [main] Log - Step 4: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 18:28:00 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 18:28:00 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 18:28:38 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 18:28:39 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 18:28:41 [main] Log - Step 3: Đếm số hàng nằm sau hàng có Age = 39
+[INFO ] 26-10-2025 18:28:41 [main] Log - Số hàng phía sau: 9
+[INFO ] 26-10-2025 18:28:41 [main] Log - Step 4: Kiểm tra số hàng hợp lệ
+[INFO ] 26-10-2025 18:28:48 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 18:28:48 [main] Log - Step 2: Click vào menu Button màn hình Elements
+[INFO ] 26-10-2025 18:28:50 [main] Log - Step 3:Double click nút 'Double Click Me'
+[INFO ] 26-10-2025 18:28:51 [main] Log - Step 4: Verify thông báo hiển thị đúng sau khi double click
+[INFO ] 26-10-2025 18:29:49 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 18:29:49 [main] Log - Step 2: Click vào menu LINKS màn hình Elements
+[INFO ] 26-10-2025 18:29:49 [main] Log - Step 3: Kiểm tra nút Created Links
+[INFO ] 26-10-2025 18:29:49 [main] Log - Step 4:Kiểm tra thông báo chứa 201
+[INFO ] 26-10-2025 18:29:57 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 18:29:57 [main] Log - Step 2: Click vào menu Upload and Download màn hình Elements
+[INFO ] 26-10-2025 18:29:57 [main] Log - Step 3: Click chọn file 
+[INFO ] 26-10-2025 18:29:58 [main] Log - Step 4:Kiểm tra file path hieern thị tên file
+[INFO ] 26-10-2025 18:30:07 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 18:30:07 [main] Log - Step 2: Click vào menu Dynamic Properties màn hình Elements
+[INFO ] 26-10-2025 18:30:07 [main] Log - Step 3: Kiểm tra ban đầu nút bị disable
+[INFO ] 26-10-2025 18:30:07 [main] Log - Step 4: Chờ đến khi nút được bật lại
+[INFO ] 26-10-2025 18:30:12 [main] Log - Step 5: Kiểm tra sau khi chờ
+[INFO ] 26-10-2025 18:30:21 [main] Log - Step1: Click vào menu Alerts, Frame & Windows màn hình homepage
+[INFO ] 26-10-2025 18:30:21 [main] Log - Step 2: Click vào menu Alerts màn hình Alerts, Frame & Windows
+[INFO ] 26-10-2025 18:30:22 [main] Log - Step 3: Click chọn Click me để mở alerts đơn giản 
+[INFO ] 26-10-2025 18:30:22 [main] Log - Step 4:accept sau khi click me 
+[INFO ] 26-10-2025 18:30:39 [main] Log - Step1: Click vào menu Forms màn hình homepage
+[INFO ] 26-10-2025 18:30:39 [main] Log - Step 2: Click vào menu Practice Form màn hình Forms
+[INFO ] 26-10-2025 18:30:39 [main] Log - Step 3: Điền thng tin vào form 
+[INFO ] 26-10-2025 18:30:40 [main] Log - Step 4: Nhấn nút submit
+[INFO ] 26-10-2025 18:30:40 [main] Log - Step 5: Kiểm tra modal xác nhận hiển thị
+[INFO ] 26-10-2025 18:30:47 [main] Log - Step1: Click vào menu Widgets màn hình homepage
+[INFO ] 26-10-2025 18:30:47 [main] Log - Step 2: Click vào menu Date Picker Form màn hình Widgets
+[INFO ] 26-10-2025 18:30:47 [main] Log - Step 3: Mở picker
+[INFO ] 26-10-2025 18:30:47 [main] Log - Step 4: Chọn ngày 1 
+[INFO ] 26-10-2025 18:30:48 [main] Log - Step 5: Mở li picker
+[INFO ] 26-10-2025 18:30:48 [main] Log - Step 6 Chọn ngày 31 (Nếu có)
+[INFO ] 26-10-2025 18:52:51 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 18:52:51 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 18:52:51 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 18:52:51 [main] Log - Step 4: Nhập Email vào Textbox Email
+[INFO ] 26-10-2025 18:52:51 [main] Log - Step 5: Nhập CurrentAddress vào Textbox CurrentAddress
+[INFO ] 26-10-2025 18:52:51 [main] Log - Step 6: Nhập PermanentAddress vào Textbox PermanentAddress
+[INFO ] 26-10-2025 18:52:51 [main] Log - Step 7: Click Button Submit
+[INFO ] 26-10-2025 18:52:52 [main] Log - Step 8: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 18:53:01 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 18:53:02 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 18:53:02 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 18:53:02 [main] Log - Step 4: Nhập Email vào Textbox Email
+[INFO ] 26-10-2025 18:53:02 [main] Log - Step 5: Nhập CurrentAddress vào Textbox CurrentAddress
+[INFO ] 26-10-2025 18:53:02 [main] Log - Step 6: Nhập PermanentAddress vào Textbox PermanentAddress
+[INFO ] 26-10-2025 18:53:02 [main] Log - Step 7: Click Button Submit
+[INFO ] 26-10-2025 18:53:02 [main] Log - Step 8: Kiểm tra class của ô email
+[INFO ] 26-10-2025 18:53:03 [main] Log - Step 9: Verify không có output hiển thị
+[INFO ] 26-10-2025 18:53:30 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 18:53:30 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 18:53:30 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 18:53:30 [main] Log - Step 4: Click vào Desktop trong checkbox
+[INFO ] 26-10-2025 18:53:30 [main] Log - Step 5: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 18:53:39 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 18:53:39 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 18:53:39 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 18:53:39 [main] Log - Step 4: Click vào home trong checkbox
+[INFO ] 26-10-2025 18:53:46 [main] Log - Step 1: Click vào menu Elements trên homepage
+[INFO ] 26-10-2025 18:53:46 [main] Log - Step 2: Click vào menu Radio Button trên màn hình Elements
+[INFO ] 26-10-2025 18:53:46 [main] Log - Step 3: Chọn radio button 'Yes'
+[INFO ] 26-10-2025 18:53:46 [main] Log - Step 4: Verify kết quả hiển thị ra màn hình
+[INFO ] 26-10-2025 18:54:07 [main] Log - Step 1: Click vào menu Elements trên homepage
+[INFO ] 26-10-2025 18:54:07 [main] Log - Step 2: Click vào menu Radio Button trên màn hình Elements
+[INFO ] 26-10-2025 18:54:07 [main] Log - Step 3: Kiểm tra radio button 'No' có bị vô hiệu hóa không
+[INFO ] 26-10-2025 18:54:19 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 18:54:19 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 18:54:21 [main] Log - Step 3: Tìm hàng có First Name = Cierra
+[INFO ] 26-10-2025 18:54:21 [main] Log - Step 4: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 18:54:29 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 18:54:29 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 18:54:29 [main] Log - Step 3: Tìm hàng có Last Name = Alden
+[INFO ] 26-10-2025 18:55:09 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 18:55:09 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 18:55:11 [main] Log - Step 3: Đếm số hàng nằm sau hàng có Age = 39
+[INFO ] 26-10-2025 18:55:11 [main] Log - Số hàng phía sau: 9
+[INFO ] 26-10-2025 18:55:11 [main] Log - Step 4: Kiểm tra số hàng hợp lệ
+[INFO ] 26-10-2025 18:55:18 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 18:55:18 [main] Log - Step 2: Click vào menu Button màn hình Elements
+[INFO ] 26-10-2025 18:55:20 [main] Log - Step 3:Double click nút 'Double Click Me'
+[INFO ] 26-10-2025 18:55:20 [main] Log - Step 4: Verify thông báo hiển thị đúng sau khi double click
+[INFO ] 26-10-2025 18:55:28 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 18:55:28 [main] Log - Step 2: Click vào menu LINKS màn hình Elements
+[INFO ] 26-10-2025 18:55:28 [main] Log - Step 3: Kiểm tra nút Created Links
+[INFO ] 26-10-2025 18:55:28 [main] Log - Step 4:Kiểm tra thông báo chứa 201
+[INFO ] 26-10-2025 18:55:36 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 18:55:36 [main] Log - Step 2: Click vào menu Upload and Download màn hình Elements
+[INFO ] 26-10-2025 18:55:36 [main] Log - Step 3: Click chọn file 
+[INFO ] 26-10-2025 18:55:36 [main] Log - Step 4:Kiểm tra file path hieern thị tên file
+[INFO ] 26-10-2025 18:55:44 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 18:55:44 [main] Log - Step 2: Click vào menu Dynamic Properties màn hình Elements
+[INFO ] 26-10-2025 18:55:44 [main] Log - Step 3: Kiểm tra ban đầu nút bị disable
+[INFO ] 26-10-2025 18:55:44 [main] Log - Step 4: Chờ đến khi nút được bật lại
+[INFO ] 26-10-2025 18:55:49 [main] Log - Step 5: Kiểm tra sau khi chờ
+[INFO ] 26-10-2025 18:55:58 [main] Log - Step1: Click vào menu Alerts, Frame & Windows màn hình homepage
+[INFO ] 26-10-2025 18:55:58 [main] Log - Step 2: Click vào menu Alerts màn hình Alerts, Frame & Windows
+[INFO ] 26-10-2025 18:55:58 [main] Log - Step 3: Click chọn Click me để mở alerts đơn giản 
+[INFO ] 26-10-2025 18:55:58 [main] Log - Step 4:accept sau khi click me 
+[INFO ] 26-10-2025 18:56:06 [main] Log - Step1: Click vào menu Forms màn hình homepage
+[INFO ] 26-10-2025 18:56:07 [main] Log - Step 2: Click vào menu Practice Form màn hình Forms
+[INFO ] 26-10-2025 18:56:07 [main] Log - Step 3: Điền thng tin vào form 
+[INFO ] 26-10-2025 18:56:07 [main] Log - Step 4: Nhấn nút submit
+[INFO ] 26-10-2025 18:56:07 [main] Log - Step 5: Kiểm tra modal xác nhận hiển thị
+[INFO ] 26-10-2025 18:56:15 [main] Log - Step1: Click vào menu Widgets màn hình homepage
+[INFO ] 26-10-2025 18:56:15 [main] Log - Step 2: Click vào menu Date Picker Form màn hình Widgets
+[INFO ] 26-10-2025 18:56:15 [main] Log - Step 3: Mở picker
+[INFO ] 26-10-2025 18:56:15 [main] Log - Step 4: Chọn ngày 1 
+[INFO ] 26-10-2025 18:56:15 [main] Log - Step 5: Mở li picker
+[INFO ] 26-10-2025 18:56:16 [main] Log - Step 6 Chọn ngày 31 (Nếu có)
+[INFO ] 26-10-2025 19:11:27 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:11:28 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 19:11:28 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 19:11:29 [main] Log - Step 4: Nhập Email vào Textbox Email
+[INFO ] 26-10-2025 19:11:29 [main] Log - Step 5: Nhập CurrentAddress vào Textbox CurrentAddress
+[INFO ] 26-10-2025 19:11:29 [main] Log - Step 6: Nhập PermanentAddress vào Textbox PermanentAddress
+[INFO ] 26-10-2025 19:11:29 [main] Log - Step 7: Click Button Submit
+[INFO ] 26-10-2025 19:11:29 [main] Log - Step 8: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 19:11:37 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:11:37 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 19:11:37 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 19:11:38 [main] Log - Step 4: Nhập Email vào Textbox Email
+[INFO ] 26-10-2025 19:11:38 [main] Log - Step 5: Nhập CurrentAddress vào Textbox CurrentAddress
+[INFO ] 26-10-2025 19:11:38 [main] Log - Step 6: Nhập PermanentAddress vào Textbox PermanentAddress
+[INFO ] 26-10-2025 19:11:38 [main] Log - Step 7: Click Button Submit
+[INFO ] 26-10-2025 19:11:38 [main] Log - Step 8: Kiểm tra class của ô email
+[INFO ] 26-10-2025 19:11:38 [main] Log - Step 9: Verify không có output hiển thị
+[INFO ] 26-10-2025 19:12:06 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:12:06 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 19:12:06 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 19:12:06 [main] Log - Step 4: Click vào Desktop trong checkbox
+[INFO ] 26-10-2025 19:12:07 [main] Log - Step 5: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 19:12:15 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:12:15 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 19:12:15 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 19:12:15 [main] Log - Step 4: Click vào home trong checkbox
+[INFO ] 26-10-2025 19:12:22 [main] Log - Step 1: Click vào menu Elements trên homepage
+[INFO ] 26-10-2025 19:12:22 [main] Log - Step 2: Click vào menu Radio Button trên màn hình Elements
+[INFO ] 26-10-2025 19:12:22 [main] Log - Step 3: Chọn radio button 'Yes'
+[INFO ] 26-10-2025 19:12:22 [main] Log - Step 4: Verify kết quả hiển thị ra màn hình
+[INFO ] 26-10-2025 19:12:29 [main] Log - Step 1: Click vào menu Elements trên homepage
+[INFO ] 26-10-2025 19:12:29 [main] Log - Step 2: Click vào menu Radio Button trên màn hình Elements
+[INFO ] 26-10-2025 19:12:29 [main] Log - Step 3: Kiểm tra radio button 'No' có bị vô hiệu hóa không
+[INFO ] 26-10-2025 19:12:30 [main] Log - Step 4: Verify không có kết quả hiển thị cho 'No'
+[INFO ] 26-10-2025 19:13:06 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:13:06 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 19:13:08 [main] Log - Step 3: Tìm hàng có First Name = Cierra
+[INFO ] 26-10-2025 19:13:08 [main] Log - Step 4: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 19:13:17 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:13:17 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 19:13:17 [main] Log - Step 3: Tìm hàng có Last Name = Alden
+[INFO ] 26-10-2025 19:13:53 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:13:53 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 19:13:55 [main] Log - Step 3: Đếm số hàng nằm sau hàng có Age = 39
+[INFO ] 26-10-2025 19:13:56 [main] Log - Số hàng phía sau: 9
+[INFO ] 26-10-2025 19:13:56 [main] Log - Step 4: Kiểm tra số hàng hợp lệ
+[INFO ] 26-10-2025 19:14:03 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:14:03 [main] Log - Step 2: Click vào menu Button màn hình Elements
+[INFO ] 26-10-2025 19:14:05 [main] Log - Step 3:Double click nút 'Double Click Me'
+[INFO ] 26-10-2025 19:14:05 [main] Log - Step 4: Verify thông báo hiển thị đúng sau khi double click
+[INFO ] 26-10-2025 19:14:42 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:14:42 [main] Log - Step 2: Click vào menu LINKS màn hình Elements
+[INFO ] 26-10-2025 19:14:42 [main] Log - Step 3: Kiểm tra nút Created Links
+[INFO ] 26-10-2025 19:14:42 [main] Log - Step 4:Kiểm tra thông báo chứa 201
+[INFO ] 26-10-2025 19:14:55 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:14:55 [main] Log - Step 2: Click vào menu Upload and Download màn hình Elements
+[INFO ] 26-10-2025 19:14:55 [main] Log - Step 3: Click chọn file 
+[INFO ] 26-10-2025 19:14:56 [main] Log - Step 4:Kiểm tra file path hieern thị tên file
+[INFO ] 26-10-2025 19:15:01 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:15:02 [main] Log - Step 2: Click vào menu Dynamic Properties màn hình Elements
+[INFO ] 26-10-2025 19:15:02 [main] Log - Step 3: Kiểm tra ban đầu nút bị disable
+[INFO ] 26-10-2025 19:15:02 [main] Log - Step 4: Chờ đến khi nút được bật lại
+[INFO ] 26-10-2025 19:15:07 [main] Log - Step 5: Kiểm tra sau khi chờ
+[INFO ] 26-10-2025 19:15:14 [main] Log - Step1: Click vào menu Alerts, Frame & Windows màn hình homepage
+[INFO ] 26-10-2025 19:15:14 [main] Log - Step 2: Click vào menu Alerts màn hình Alerts, Frame & Windows
+[INFO ] 26-10-2025 19:15:14 [main] Log - Step 3: Click chọn Click me để mở alerts đơn giản 
+[INFO ] 26-10-2025 19:15:16 [main] Log - Step 4:accept sau khi click me 
+[INFO ] 26-10-2025 19:15:27 [main] Log - Step1: Click vào menu Forms màn hình homepage
+[INFO ] 26-10-2025 19:15:27 [main] Log - Step 2: Click vào menu Practice Form màn hình Forms
+[INFO ] 26-10-2025 19:15:28 [main] Log - Step 3: Điền thng tin vào form 
+[INFO ] 26-10-2025 19:15:30 [main] Log - Step 4: Nhấn nút submit
+[INFO ] 26-10-2025 19:15:31 [main] Log - Step 5: Kiểm tra modal xác nhận hiển thị
+[INFO ] 26-10-2025 19:15:38 [main] Log - Step1: Click vào menu Widgets màn hình homepage
+[INFO ] 26-10-2025 19:15:38 [main] Log - Step 2: Click vào menu Date Picker Form màn hình Widgets
+[INFO ] 26-10-2025 19:15:38 [main] Log - Step 3: Mở picker
+[INFO ] 26-10-2025 19:15:38 [main] Log - Step 4: Chọn ngày 1 
+[INFO ] 26-10-2025 19:15:38 [main] Log - Step 5: Mở li picker
+[INFO ] 26-10-2025 19:15:39 [main] Log - Step 6 Chọn ngày 31 (Nếu có)
+[INFO ] 26-10-2025 19:24:21 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:24:21 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 19:24:21 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 19:24:22 [main] Log - Step 4: Nhập Email vào Textbox Email
+[INFO ] 26-10-2025 19:24:22 [main] Log - Step 5: Nhập CurrentAddress vào Textbox CurrentAddress
+[INFO ] 26-10-2025 19:24:23 [main] Log - Step 6: Nhập PermanentAddress vào Textbox PermanentAddress
+[INFO ] 26-10-2025 19:24:23 [main] Log - Step 7: Click Button Submit
+[INFO ] 26-10-2025 19:24:23 [main] Log - Step 8: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 19:24:31 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:24:31 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 19:24:31 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 19:24:31 [main] Log - Step 4: Nhập Email vào Textbox Email
+[INFO ] 26-10-2025 19:24:32 [main] Log - Step 5: Nhập CurrentAddress vào Textbox CurrentAddress
+[INFO ] 26-10-2025 19:24:32 [main] Log - Step 6: Nhập PermanentAddress vào Textbox PermanentAddress
+[INFO ] 26-10-2025 19:24:33 [main] Log - Step 7: Click Button Submit
+[INFO ] 26-10-2025 19:24:33 [main] Log - Step 8: Kiểm tra class của ô email
+[INFO ] 26-10-2025 19:24:33 [main] Log - Step 9: Verify không có output hiển thị
+[INFO ] 26-10-2025 19:25:01 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:25:01 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 19:25:01 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 19:25:02 [main] Log - Step 4: Click vào Desktop trong checkbox
+[INFO ] 26-10-2025 19:25:03 [main] Log - Step 5: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 19:25:11 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:25:11 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 19:25:11 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 19:25:11 [main] Log - Step 4: Click vào home trong checkbox
+[INFO ] 26-10-2025 19:25:18 [main] Log - Step 1: Click vào menu Elements trên homepage
+[INFO ] 26-10-2025 19:25:18 [main] Log - Step 2: Click vào menu Radio Button trên màn hình Elements
+[INFO ] 26-10-2025 19:25:18 [main] Log - Step 3: Chọn radio button 'Yes'
+[INFO ] 26-10-2025 19:25:18 [main] Log - Step 4: Verify kết quả hiển thị ra màn hình
+[INFO ] 26-10-2025 19:25:25 [main] Log - Step 1: Click vào menu Elements trên homepage
+[INFO ] 26-10-2025 19:25:25 [main] Log - Step 2: Click vào menu Radio Button trên màn hình Elements
+[INFO ] 26-10-2025 19:25:25 [main] Log - Step 3: Kiểm tra radio button 'No' có bị vô hiệu hóa không
+[INFO ] 26-10-2025 19:25:25 [main] Log - Step 4: Verify không có kết quả hiển thị cho 'No'
+[INFO ] 26-10-2025 19:25:31 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:25:31 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 19:25:33 [main] Log - Step 3: Tìm hàng có First Name = Cierra
+[INFO ] 26-10-2025 19:25:33 [main] Log - Step 4: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 19:25:42 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:25:42 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 19:25:42 [main] Log - Step 3: Tìm hàng có Last Name = Alden
+[INFO ] 26-10-2025 19:26:21 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:26:21 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 19:26:23 [main] Log - Step 3: Đếm số hàng nằm sau hàng có Age = 39
+[INFO ] 26-10-2025 19:26:23 [main] Log - Số hàng phía sau: 9
+[INFO ] 26-10-2025 19:26:23 [main] Log - Step 4: Kiểm tra số hàng hợp lệ
+[INFO ] 26-10-2025 19:26:29 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:26:29 [main] Log - Step 2: Click vào menu Button màn hình Elements
+[INFO ] 26-10-2025 19:26:31 [main] Log - Step 3:Double click nút 'Double Click Me'
+[INFO ] 26-10-2025 19:26:31 [main] Log - Step 4: Verify thông báo hiển thị đúng sau khi double click
+[INFO ] 26-10-2025 19:26:37 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:26:37 [main] Log - Step 2: Click vào menu LINKS màn hình Elements
+[INFO ] 26-10-2025 19:26:38 [main] Log - Step 3: Kiểm tra nút Created Links
+[INFO ] 26-10-2025 19:26:38 [main] Log - Step 4:Kiểm tra thông báo chứa 201
+[INFO ] 26-10-2025 19:26:45 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:26:45 [main] Log - Step 2: Click vào menu Upload and Download màn hình Elements
+[INFO ] 26-10-2025 19:26:45 [main] Log - Step 3: Click chọn file 
+[INFO ] 26-10-2025 19:26:45 [main] Log - Step 4:Kiểm tra file path hieern thị tên file
+[INFO ] 26-10-2025 19:26:51 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:26:51 [main] Log - Step 2: Click vào menu Dynamic Properties màn hình Elements
+[INFO ] 26-10-2025 19:26:51 [main] Log - Step 3: Kiểm tra ban đầu nút bị disable
+[INFO ] 26-10-2025 19:26:51 [main] Log - Step 4: Chờ đến khi nút được bật lại
+[INFO ] 26-10-2025 19:26:57 [main] Log - Step 5: Kiểm tra sau khi chờ
+[INFO ] 26-10-2025 19:27:04 [main] Log - Step1: Click vào menu Alerts, Frame & Windows màn hình homepage
+[INFO ] 26-10-2025 19:27:04 [main] Log - Step 2: Click vào menu Alerts màn hình Alerts, Frame & Windows
+[INFO ] 26-10-2025 19:27:04 [main] Log - Step 3: Click chọn Click me để mở alerts đơn giản 
+[INFO ] 26-10-2025 19:27:04 [main] Log - Step 4:accept sau khi click me 
+[INFO ] 26-10-2025 19:27:12 [main] Log - Step1: Click vào menu Forms màn hình homepage
+[INFO ] 26-10-2025 19:27:12 [main] Log - Step 2: Click vào menu Practice Form màn hình Forms
+[INFO ] 26-10-2025 19:27:12 [main] Log - Step 3: Điền thng tin vào form 
+[INFO ] 26-10-2025 19:27:13 [main] Log - Step 4: Nhấn nút submit
+[INFO ] 26-10-2025 19:27:13 [main] Log - Step 5: Kiểm tra modal xác nhận hiển thị
+[INFO ] 26-10-2025 19:27:20 [main] Log - Step1: Click vào menu Widgets màn hình homepage
+[INFO ] 26-10-2025 19:27:20 [main] Log - Step 2: Click vào menu Date Picker Form màn hình Widgets
+[INFO ] 26-10-2025 19:27:20 [main] Log - Step 3: Mở picker
+[INFO ] 26-10-2025 19:27:20 [main] Log - Step 4: Chọn ngày 1 
+[INFO ] 26-10-2025 19:27:20 [main] Log - Step 5: Mở li picker
+[INFO ] 26-10-2025 19:27:20 [main] Log - Step 6 Chọn ngày 31 (Nếu có)
+[INFO ] 26-10-2025 19:29:39 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:29:39 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 19:29:39 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 19:29:40 [main] Log - Step 4: Nhập Email vào Textbox Email
+[INFO ] 26-10-2025 19:29:40 [main] Log - Step 5: Nhập CurrentAddress vào Textbox CurrentAddress
+[INFO ] 26-10-2025 19:29:41 [main] Log - Step 6: Nhập PermanentAddress vào Textbox PermanentAddress
+[INFO ] 26-10-2025 19:29:41 [main] Log - Step 7: Click Button Submit
+[INFO ] 26-10-2025 19:29:41 [main] Log - Step 8: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 19:29:48 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:29:48 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 19:29:48 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 19:29:49 [main] Log - Step 4: Nhập Email vào Textbox Email
+[INFO ] 26-10-2025 19:29:49 [main] Log - Step 5: Nhập CurrentAddress vào Textbox CurrentAddress
+[INFO ] 26-10-2025 19:29:49 [main] Log - Step 6: Nhập PermanentAddress vào Textbox PermanentAddress
+[INFO ] 26-10-2025 19:29:50 [main] Log - Step 7: Click Button Submit
+[INFO ] 26-10-2025 19:29:50 [main] Log - Step 8: Kiểm tra class của ô email
+[INFO ] 26-10-2025 19:29:50 [main] Log - Step 9: Verify không có output hiển thị
+[INFO ] 26-10-2025 19:30:16 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:30:16 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 19:30:16 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 19:30:17 [main] Log - Step 4: Click vào Desktop trong checkbox
+[INFO ] 26-10-2025 19:30:17 [main] Log - Step 5: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 19:30:29 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:30:29 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 19:30:29 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 19:30:29 [main] Log - Step 4: Click vào home trong checkbox
+[INFO ] 26-10-2025 19:30:36 [main] Log - Step 1: Click vào menu Elements trên homepage
+[INFO ] 26-10-2025 19:30:36 [main] Log - Step 2: Click vào menu Radio Button trên màn hình Elements
+[INFO ] 26-10-2025 19:30:36 [main] Log - Step 3: Chọn radio button 'Yes'
+[INFO ] 26-10-2025 19:30:36 [main] Log - Step 4: Verify kết quả hiển thị ra màn hình
+[INFO ] 26-10-2025 19:30:43 [main] Log - Step 1: Click vào menu Elements trên homepage
+[INFO ] 26-10-2025 19:30:43 [main] Log - Step 2: Click vào menu Radio Button trên màn hình Elements
+[INFO ] 26-10-2025 19:30:43 [main] Log - Step 3: Kiểm tra radio button 'No' có bị vô hiệu hóa không
+[INFO ] 26-10-2025 19:30:43 [main] Log - Step 4: Verify không có kết quả hiển thị cho 'No'
+[INFO ] 26-10-2025 19:30:50 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:30:50 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 19:30:52 [main] Log - Step 3: Tìm hàng có First Name = Cierra
+[INFO ] 26-10-2025 19:30:52 [main] Log - Step 4: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 19:30:58 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:30:58 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 19:30:58 [main] Log - Step 3: Tìm hàng có Last Name = Alden
+[INFO ] 26-10-2025 19:31:34 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:31:34 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 19:31:36 [main] Log - Step 3: Đếm số hàng nằm sau hàng có Age = 39
+[INFO ] 26-10-2025 19:31:36 [main] Log - Số hàng phía sau: 9
+[INFO ] 26-10-2025 19:31:36 [main] Log - Step 4: Kiểm tra số hàng hợp lệ
+[INFO ] 26-10-2025 19:31:42 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:31:42 [main] Log - Step 2: Click vào menu Button màn hình Elements
+[INFO ] 26-10-2025 19:31:44 [main] Log - Step 3:Double click nút 'Double Click Me'
+[INFO ] 26-10-2025 19:31:45 [main] Log - Step 4: Verify thông báo hiển thị đúng sau khi double click
+[INFO ] 26-10-2025 19:32:20 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:32:20 [main] Log - Step 2: Click vào menu LINKS màn hình Elements
+[INFO ] 26-10-2025 19:32:20 [main] Log - Step 3: Kiểm tra nút Created Links
+[INFO ] 26-10-2025 19:32:20 [main] Log - Step 4:Kiểm tra thông báo chứa 201
+[INFO ] 26-10-2025 19:32:27 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:32:28 [main] Log - Step 2: Click vào menu Upload and Download màn hình Elements
+[INFO ] 26-10-2025 19:32:28 [main] Log - Step 3: Click chọn file 
+[INFO ] 26-10-2025 19:32:28 [main] Log - Step 4:Kiểm tra file path hieern thị tên file
+[INFO ] 26-10-2025 19:32:35 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:32:35 [main] Log - Step 2: Click vào menu Dynamic Properties màn hình Elements
+[INFO ] 26-10-2025 19:32:35 [main] Log - Step 3: Kiểm tra ban đầu nút bị disable
+[INFO ] 26-10-2025 19:32:35 [main] Log - Step 4: Chờ đến khi nút được bật lại
+[INFO ] 26-10-2025 19:32:40 [main] Log - Step 5: Kiểm tra sau khi chờ
+[INFO ] 26-10-2025 19:32:46 [main] Log - Step1: Click vào menu Alerts, Frame & Windows màn hình homepage
+[INFO ] 26-10-2025 19:32:46 [main] Log - Step 2: Click vào menu Alerts màn hình Alerts, Frame & Windows
+[INFO ] 26-10-2025 19:32:46 [main] Log - Step 3: Click chọn Click me để mở alerts đơn giản 
+[INFO ] 26-10-2025 19:32:46 [main] Log - Step 4:accept sau khi click me 
+[INFO ] 26-10-2025 19:32:52 [main] Log - Step1: Click vào menu Forms màn hình homepage
+[INFO ] 26-10-2025 19:32:52 [main] Log - Step 2: Click vào menu Practice Form màn hình Forms
+[INFO ] 26-10-2025 19:32:52 [main] Log - Step 3: Điền thng tin vào form 
+[INFO ] 26-10-2025 19:32:53 [main] Log - Step 4: Nhấn nút submit
+[INFO ] 26-10-2025 19:32:53 [main] Log - Step 5: Kiểm tra modal xác nhận hiển thị
+[INFO ] 26-10-2025 19:33:00 [main] Log - Step1: Click vào menu Widgets màn hình homepage
+[INFO ] 26-10-2025 19:33:00 [main] Log - Step 2: Click vào menu Date Picker Form màn hình Widgets
+[INFO ] 26-10-2025 19:33:00 [main] Log - Step 3: Mở picker
+[INFO ] 26-10-2025 19:33:00 [main] Log - Step 4: Chọn ngày 1 
+[INFO ] 26-10-2025 19:33:00 [main] Log - Step 5: Mở li picker
+[INFO ] 26-10-2025 19:33:00 [main] Log - Step 6 Chọn ngày 31 (Nếu có)
+[INFO ] 26-10-2025 19:45:23 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:45:23 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 19:45:23 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 19:45:24 [main] Log - Step 4: Nhập Email vào Textbox Email
+[INFO ] 26-10-2025 19:45:24 [main] Log - Step 5: Nhập CurrentAddress vào Textbox CurrentAddress
+[INFO ] 26-10-2025 19:45:25 [main] Log - Step 6: Nhập PermanentAddress vào Textbox PermanentAddress
+[INFO ] 26-10-2025 19:45:25 [main] Log - Step 7: Click Button Submit
+[INFO ] 26-10-2025 19:45:25 [main] Log - Step 8: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 19:45:34 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:45:34 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 19:45:34 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 19:45:35 [main] Log - Step 4: Nhập Email vào Textbox Email
+[INFO ] 26-10-2025 19:45:35 [main] Log - Step 5: Nhập CurrentAddress vào Textbox CurrentAddress
+[INFO ] 26-10-2025 19:45:35 [main] Log - Step 6: Nhập PermanentAddress vào Textbox PermanentAddress
+[INFO ] 26-10-2025 19:45:35 [main] Log - Step 7: Click Button Submit
+[INFO ] 26-10-2025 19:45:37 [main] Log - Step 8: Kiểm tra class của ô email
+[INFO ] 26-10-2025 19:45:37 [main] Log - Step 9: Verify output không chứa tên (dữ liệu chính)
+[INFO ] 26-10-2025 19:46:27 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:46:27 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 19:46:27 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 19:46:27 [main] Log - Step 4: Click vào Desktop trong checkbox
+[INFO ] 26-10-2025 19:46:27 [main] Log - Step 5: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 19:46:36 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:46:36 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 19:46:36 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 19:46:36 [main] Log - Step 4: Click vào home trong checkbox
+[INFO ] 26-10-2025 19:46:47 [main] Log - Step 1: Click vào menu Elements trên homepage
+[INFO ] 26-10-2025 19:46:47 [main] Log - Step 2: Click vào menu Radio Button trên màn hình Elements
+[INFO ] 26-10-2025 19:46:47 [main] Log - Step 3: Chọn radio button 'Yes'
+[INFO ] 26-10-2025 19:46:47 [main] Log - Step 4: Verify kết quả hiển thị ra màn hình
+[INFO ] 26-10-2025 19:46:56 [main] Log - Step 1: Click vào menu Elements trên homepage
+[INFO ] 26-10-2025 19:46:57 [main] Log - Step 2: Click vào menu Radio Button trên màn hình Elements
+[INFO ] 26-10-2025 19:46:57 [main] Log - Step 3: Kiểm tra radio button 'No' có bị vô hiệu hóa không
+[INFO ] 26-10-2025 19:46:57 [main] Log - Step 4: Verify không có kết quả hiển thị cho 'No'
+[INFO ] 26-10-2025 19:47:08 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:47:08 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 19:47:10 [main] Log - Step 3: Tìm hàng có First Name = Cierra
+[INFO ] 26-10-2025 19:47:10 [main] Log - Step 4: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 19:48:18 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:48:18 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 19:48:18 [main] Log - Step 3: Tìm hàng có Last Name = Alden
+[INFO ] 26-10-2025 19:49:13 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:49:13 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 19:49:15 [main] Log - Step 3: Đếm số hàng nằm sau hàng có Age = 39
+[INFO ] 26-10-2025 19:49:15 [main] Log - Số hàng phía sau: 9
+[INFO ] 26-10-2025 19:49:15 [main] Log - Step 4: Kiểm tra số hàng hợp lệ
+[INFO ] 26-10-2025 19:49:22 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:49:22 [main] Log - Step 2: Click vào menu Button màn hình Elements
+[INFO ] 26-10-2025 19:49:24 [main] Log - Step 3:Double click nút 'Double Click Me'
+[INFO ] 26-10-2025 19:49:24 [main] Log - Step 4: Verify thông báo hiển thị đúng sau khi double click
+[INFO ] 26-10-2025 19:50:02 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:50:02 [main] Log - Step 2: Click vào menu LINKS màn hình Elements
+[INFO ] 26-10-2025 19:50:02 [main] Log - Step 3: Kiểm tra nút Created Links
+[INFO ] 26-10-2025 19:50:02 [main] Log - Step 4:Kiểm tra thông báo chứa 201
+[INFO ] 26-10-2025 19:50:12 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:50:12 [main] Log - Step 2: Click vào menu Upload and Download màn hình Elements
+[INFO ] 26-10-2025 19:50:12 [main] Log - Step 3: Click chọn file 
+[INFO ] 26-10-2025 19:50:12 [main] Log - Step 4:Kiểm tra file path hieern thị tên file
+[INFO ] 26-10-2025 19:50:20 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:50:21 [main] Log - Step 2: Click vào menu Dynamic Properties màn hình Elements
+[INFO ] 26-10-2025 19:50:21 [main] Log - Step 3: Kiểm tra ban đầu nút bị disable
+[INFO ] 26-10-2025 19:50:21 [main] Log - Step 4: Chờ đến khi nút được bật lại
+[INFO ] 26-10-2025 19:50:26 [main] Log - Step 5: Kiểm tra sau khi chờ
+[INFO ] 26-10-2025 19:50:35 [main] Log - Step1: Click vào menu Alerts, Frame & Windows màn hình homepage
+[INFO ] 26-10-2025 19:50:36 [main] Log - Step 2: Click vào menu Alerts màn hình Alerts, Frame & Windows
+[INFO ] 26-10-2025 19:50:36 [main] Log - Step 3: Click chọn Click me để mở alerts đơn giản 
+[INFO ] 26-10-2025 19:50:36 [main] Log - Step 4:accept sau khi click me 
+[INFO ] 26-10-2025 19:50:44 [main] Log - Step1: Click vào menu Forms màn hình homepage
+[INFO ] 26-10-2025 19:50:44 [main] Log - Step 2: Click vào menu Practice Form màn hình Forms
+[INFO ] 26-10-2025 19:50:44 [main] Log - Step 3: Điền thng tin vào form 
+[INFO ] 26-10-2025 19:50:45 [main] Log - Step 4: Nhấn nút submit
+[INFO ] 26-10-2025 19:50:45 [main] Log - Step 5: Kiểm tra modal xác nhận hiển thị
+[INFO ] 26-10-2025 19:50:54 [main] Log - Step1: Click vào menu Widgets màn hình homepage
+[INFO ] 26-10-2025 19:50:54 [main] Log - Step 2: Click vào menu Date Picker Form màn hình Widgets
+[INFO ] 26-10-2025 19:50:54 [main] Log - Step 3: Mở picker
+[INFO ] 26-10-2025 19:50:54 [main] Log - Step 4: Chọn ngày 1 
+[INFO ] 26-10-2025 19:50:54 [main] Log - Step 5: Mở li picker
+[INFO ] 26-10-2025 19:50:55 [main] Log - Step 6 Chọn ngày 31 (Nếu có)
+[INFO ] 26-10-2025 19:57:14 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:57:14 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 19:57:15 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 19:57:15 [main] Log - Step 4: Nhập Email vào Textbox Email
+[INFO ] 26-10-2025 19:57:15 [main] Log - Step 5: Nhập CurrentAddress vào Textbox CurrentAddress
+[INFO ] 26-10-2025 19:57:15 [main] Log - Step 6: Nhập PermanentAddress vào Textbox PermanentAddress
+[INFO ] 26-10-2025 19:57:16 [main] Log - Step 7: Click Button Submit
+[INFO ] 26-10-2025 19:57:16 [main] Log - Step 8: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 19:57:26 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:57:27 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 19:57:27 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 19:57:27 [main] Log - Step 4: Nhập Email vào Textbox Email
+[INFO ] 26-10-2025 19:57:27 [main] Log - Step 5: Nhập CurrentAddress vào Textbox CurrentAddress
+[INFO ] 26-10-2025 19:57:27 [main] Log - Step 6: Nhập PermanentAddress vào Textbox PermanentAddress
+[INFO ] 26-10-2025 19:57:28 [main] Log - Step 7: Click Button Submit
+[INFO ] 26-10-2025 19:57:28 [main] Log - Step 8: Kiểm tra class của ô email
+[INFO ] 26-10-2025 19:57:28 [main] Log - Step 9: Verify không có output hiển thị
+[INFO ] 26-10-2025 19:57:35 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:57:36 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 19:57:36 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 19:57:36 [main] Log - Step 4: Click vào Desktop trong checkbox
+[INFO ] 26-10-2025 19:57:36 [main] Log - Step 5: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 19:57:58 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:57:58 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 19:57:58 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 19:57:58 [main] Log - Step 4: Click vào home trong checkbox
+[INFO ] 26-10-2025 19:58:04 [main] Log - Step 1: Click vào menu Elements trên homepage
+[INFO ] 26-10-2025 19:58:04 [main] Log - Step 2: Click vào menu Radio Button trên màn hình Elements
+[INFO ] 26-10-2025 19:58:04 [main] Log - Step 3: Chọn radio button 'Yes'
+[INFO ] 26-10-2025 19:58:04 [main] Log - Step 4: Verify kết quả hiển thị ra màn hình
+[INFO ] 26-10-2025 19:58:16 [main] Log - Step 1: Click vào menu Elements trên homepage
+[INFO ] 26-10-2025 19:58:16 [main] Log - Step 2: Click vào menu Radio Button trên màn hình Elements
+[INFO ] 26-10-2025 19:58:16 [main] Log - Step 3: Kiểm tra radio button 'No' có bị vô hiệu hóa không
+[INFO ] 26-10-2025 19:58:16 [main] Log - Step 4: Verify không có kết quả hiển thị cho 'No'
+[INFO ] 26-10-2025 19:58:52 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:58:52 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 19:58:55 [main] Log - Step 3: Tìm hàng có First Name = Cierra
+[INFO ] 26-10-2025 19:58:55 [main] Log - Step 4: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 19:59:01 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:59:01 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 19:59:01 [main] Log - Step 3: Tìm hàng có Last Name = Alden
+[INFO ] 26-10-2025 19:59:37 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:59:38 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 19:59:40 [main] Log - Step 3: Đếm số hàng nằm sau hàng có Age = 39
+[INFO ] 26-10-2025 19:59:40 [main] Log - Số hàng phía sau: 9
+[INFO ] 26-10-2025 19:59:40 [main] Log - Step 4: Kiểm tra số hàng hợp lệ
+[INFO ] 26-10-2025 19:59:47 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 19:59:47 [main] Log - Step 2: Click vào menu Button màn hình Elements
+[INFO ] 26-10-2025 19:59:49 [main] Log - Step 3:Double click nút 'Double Click Me'
+[INFO ] 26-10-2025 19:59:50 [main] Log - Step 4: Verify thông báo hiển thị đúng sau khi double click
+[INFO ] 26-10-2025 20:00:27 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:00:28 [main] Log - Step 2: Click vào menu LINKS màn hình Elements
+[INFO ] 26-10-2025 20:00:28 [main] Log - Step 3: Kiểm tra nút Created Links
+[INFO ] 26-10-2025 20:00:28 [main] Log - Step 4:Kiểm tra thông báo chứa 201
+[INFO ] 26-10-2025 20:00:37 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:00:37 [main] Log - Step 2: Click vào menu Upload and Download màn hình Elements
+[INFO ] 26-10-2025 20:00:37 [main] Log - Step 3: Click chọn file 
+[INFO ] 26-10-2025 20:00:37 [main] Log - Step 4:Kiểm tra file path hieern thị tên file
+[INFO ] 26-10-2025 20:00:45 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:00:45 [main] Log - Step 2: Click vào menu Dynamic Properties màn hình Elements
+[INFO ] 26-10-2025 20:00:45 [main] Log - Step 3: Kiểm tra ban đầu nút bị disable
+[INFO ] 26-10-2025 20:00:45 [main] Log - Step 4: Chờ đến khi nút được bật lại
+[INFO ] 26-10-2025 20:00:51 [main] Log - Step 5: Kiểm tra sau khi chờ
+[INFO ] 26-10-2025 20:01:01 [main] Log - Step1: Click vào menu Alerts, Frame & Windows màn hình homepage
+[INFO ] 26-10-2025 20:01:01 [main] Log - Step 2: Click vào menu Alerts màn hình Alerts, Frame & Windows
+[INFO ] 26-10-2025 20:01:01 [main] Log - Step 3: Click chọn Click me để mở alerts đơn giản 
+[INFO ] 26-10-2025 20:01:01 [main] Log - Step 4:accept sau khi click me 
+[INFO ] 26-10-2025 20:01:32 [main] Log - Step1: Click vào menu Forms màn hình homepage
+[INFO ] 26-10-2025 20:01:32 [main] Log - Step 2: Click vào menu Practice Form màn hình Forms
+[INFO ] 26-10-2025 20:01:33 [main] Log - Step 3: Điền thng tin vào form 
+[INFO ] 26-10-2025 20:01:33 [main] Log - Step 4: Nhấn nút submit
+[INFO ] 26-10-2025 20:01:33 [main] Log - Step 5: Kiểm tra modal xác nhận hiển thị
+[INFO ] 26-10-2025 20:01:35 [main] Log - Step1: Click vào menu Widgets màn hình homepage
+[INFO ] 26-10-2025 20:03:53 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:03:53 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 20:03:53 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 20:03:54 [main] Log - Step 4: Nhập Email vào Textbox Email
+[INFO ] 26-10-2025 20:03:55 [main] Log - Step 5: Nhập CurrentAddress vào Textbox CurrentAddress
+[INFO ] 26-10-2025 20:03:55 [main] Log - Step 6: Nhập PermanentAddress vào Textbox PermanentAddress
+[INFO ] 26-10-2025 20:03:55 [main] Log - Step 7: Click Button Submit
+[INFO ] 26-10-2025 20:03:55 [main] Log - Step 8: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 20:04:02 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:04:02 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 20:04:02 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 20:04:03 [main] Log - Step 4: Nhập Email vào Textbox Email
+[INFO ] 26-10-2025 20:04:05 [main] Log - Step 5: Nhập CurrentAddress vào Textbox CurrentAddress
+[INFO ] 26-10-2025 20:04:06 [main] Log - Step 6: Nhập PermanentAddress vào Textbox PermanentAddress
+[INFO ] 26-10-2025 20:04:06 [main] Log - Step 7: Click Button Submit
+[INFO ] 26-10-2025 20:04:08 [main] Log - Step 8: Kiểm tra class của ô email
+[INFO ] 26-10-2025 20:04:08 [main] Log - Step 9: Verify output không chứa tên (dữ liệu chính)
+[INFO ] 26-10-2025 20:04:44 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:05:22 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:05:22 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 20:05:22 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 20:05:22 [main] Log - Step 4: Click vào home trong checkbox
+[INFO ] 26-10-2025 20:05:33 [main] Log - Step 1: Click vào menu Elements trên homepage
+[INFO ] 26-10-2025 20:05:33 [main] Log - Step 2: Click vào menu Radio Button trên màn hình Elements
+[INFO ] 26-10-2025 20:05:33 [main] Log - Step 3: Chọn radio button 'Yes'
+[INFO ] 26-10-2025 20:05:33 [main] Log - Step 4: Verify kết quả hiển thị ra màn hình
+[INFO ] 26-10-2025 20:06:01 [main] Log - Step 1: Click vào menu Elements trên homepage
+[INFO ] 26-10-2025 20:06:01 [main] Log - Step 2: Click vào menu Radio Button trên màn hình Elements
+[INFO ] 26-10-2025 20:06:01 [main] Log - Step 3: Kiểm tra radio button 'No' có bị vô hiệu hóa không
+[INFO ] 26-10-2025 20:06:01 [main] Log - Step 4: Verify không có kết quả hiển thị cho 'No'
+[INFO ] 26-10-2025 20:06:08 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:06:08 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 20:06:10 [main] Log - Step 3: Tìm hàng có First Name = Cierra
+[INFO ] 26-10-2025 20:06:10 [main] Log - Step 4: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 20:06:17 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:06:17 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 20:06:17 [main] Log - Step 3: Tìm hàng có Last Name = Alden
+[INFO ] 26-10-2025 20:07:10 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:07:10 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 20:07:12 [main] Log - Step 3: Đếm số hàng nằm sau hàng có Age = 39
+[INFO ] 26-10-2025 20:07:12 [main] Log - Số hàng phía sau: 9
+[INFO ] 26-10-2025 20:07:12 [main] Log - Step 4: Kiểm tra số hàng hợp lệ
+[INFO ] 26-10-2025 20:07:36 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:07:36 [main] Log - Step 2: Click vào menu Button màn hình Elements
+[INFO ] 26-10-2025 20:07:38 [main] Log - Step 3:Double click nút 'Double Click Me'
+[INFO ] 26-10-2025 20:07:40 [main] Log - Step 4: Verify thông báo hiển thị đúng sau khi double click
+[INFO ] 26-10-2025 20:08:12 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:08:12 [main] Log - Step 2: Click vào menu LINKS màn hình Elements
+[INFO ] 26-10-2025 20:08:12 [main] Log - Step 3: Kiểm tra nút Created Links
+[INFO ] 26-10-2025 20:08:12 [main] Log - Step 4:Kiểm tra thông báo chứa 201
+[INFO ] 26-10-2025 20:08:44 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:08:44 [main] Log - Step 2: Click vào menu Upload and Download màn hình Elements
+[INFO ] 26-10-2025 20:08:44 [main] Log - Step 3: Click chọn file 
+[INFO ] 26-10-2025 20:08:44 [main] Log - Step 4:Kiểm tra file path hieern thị tên file
+[INFO ] 26-10-2025 20:09:18 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:09:18 [main] Log - Step 2: Click vào menu Dynamic Properties màn hình Elements
+[INFO ] 26-10-2025 20:09:18 [main] Log - Step 3: Kiểm tra ban đầu nút bị disable
+[INFO ] 26-10-2025 20:09:18 [main] Log - Step 4: Chờ đến khi nút được bật lại
+[INFO ] 26-10-2025 20:09:24 [main] Log - Step 5: Kiểm tra sau khi chờ
+[INFO ] 26-10-2025 20:09:56 [main] Log - Step1: Click vào menu Alerts, Frame & Windows màn hình homepage
+[INFO ] 26-10-2025 20:09:56 [main] Log - Step 2: Click vào menu Alerts màn hình Alerts, Frame & Windows
+[INFO ] 26-10-2025 20:09:56 [main] Log - Step 3: Click chọn Click me để mở alerts đơn giản 
+[INFO ] 26-10-2025 20:09:56 [main] Log - Step 4:accept sau khi click me 
+[INFO ] 26-10-2025 20:10:23 [main] Log - Step1: Click vào menu Forms màn hình homepage
+[INFO ] 26-10-2025 20:10:24 [main] Log - Step 2: Click vào menu Practice Form màn hình Forms
+[INFO ] 26-10-2025 20:10:24 [main] Log - Step 3: Điền thng tin vào form 
+[INFO ] 26-10-2025 20:10:25 [main] Log - Step 4: Nhấn nút submit
+[INFO ] 26-10-2025 20:10:25 [main] Log - Step 5: Kiểm tra modal xác nhận hiển thị
+[INFO ] 26-10-2025 20:10:55 [main] Log - Step1: Click vào menu Widgets màn hình homepage
+[INFO ] 26-10-2025 20:10:56 [main] Log - Step 2: Click vào menu Date Picker Form màn hình Widgets
+[INFO ] 26-10-2025 20:10:56 [main] Log - Step 3: Mở picker
+[INFO ] 26-10-2025 20:10:56 [main] Log - Step 4: Chọn ngày 1 
+[INFO ] 26-10-2025 20:10:56 [main] Log - Step 5: Mở li picker
+[INFO ] 26-10-2025 20:10:56 [main] Log - Step 6 Chọn ngày 31 (Nếu có)
+[INFO ] 26-10-2025 20:31:17 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:31:17 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 20:31:17 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 20:31:17 [main] Log - Step 4: Nhập Email vào Textbox Email
+[INFO ] 26-10-2025 20:31:17 [main] Log - Step 5: Nhập CurrentAddress vào Textbox CurrentAddress
+[INFO ] 26-10-2025 20:31:18 [main] Log - Step 6: Nhập PermanentAddress vào Textbox PermanentAddress
+[INFO ] 26-10-2025 20:31:18 [main] Log - Step 7: Click Button Submit
+[INFO ] 26-10-2025 20:31:18 [main] Log - Step 8: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 20:31:33 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:31:33 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 20:31:33 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 20:31:33 [main] Log - Step 4: Nhập Email vào Textbox Email
+[INFO ] 26-10-2025 20:31:33 [main] Log - Step 5: Nhập CurrentAddress vào Textbox CurrentAddress
+[INFO ] 26-10-2025 20:31:33 [main] Log - Step 6: Nhập PermanentAddress vào Textbox PermanentAddress
+[INFO ] 26-10-2025 20:31:34 [main] Log - Step 7: Click Button Submit
+[INFO ] 26-10-2025 20:31:35 [main] Log - Step 8: Kiểm tra class của ô email
+[INFO ] 26-10-2025 20:31:35 [main] Log - Step 9: Verify output không chứa tên (dữ liệu chính)
+[INFO ] 26-10-2025 20:31:49 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:31:50 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 20:31:50 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 20:31:50 [main] Log - Step 4: Click vào Desktop trong checkbox
+[INFO ] 26-10-2025 20:31:50 [main] Log - Step 5: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 20:32:04 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:32:05 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 20:32:05 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 20:32:05 [main] Log - Step 4: Click vào home trong checkbox
+[INFO ] 26-10-2025 20:32:18 [main] Log - Step 1: Click vào menu Elements trên homepage
+[INFO ] 26-10-2025 20:32:18 [main] Log - Step 2: Click vào menu Radio Button trên màn hình Elements
+[INFO ] 26-10-2025 20:32:18 [main] Log - Step 3: Chọn radio button 'Yes'
+[INFO ] 26-10-2025 20:32:18 [main] Log - Step 4: Verify kết quả hiển thị ra màn hình
+[INFO ] 26-10-2025 20:32:37 [main] Log - Step 1: Click vào menu Elements trên homepage
+[INFO ] 26-10-2025 20:32:37 [main] Log - Step 2: Click vào menu Radio Button trên màn hình Elements
+[INFO ] 26-10-2025 20:32:37 [main] Log - Step 3: Kiểm tra radio button 'No' có bị vô hiệu hóa không
+[INFO ] 26-10-2025 20:32:37 [main] Log - Step 4: Verify không có kết quả hiển thị cho 'No'
+[INFO ] 26-10-2025 20:33:06 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:33:06 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 20:33:08 [main] Log - Step 3: Tìm hàng có First Name = Cierra
+[INFO ] 26-10-2025 20:33:09 [main] Log - Step 4: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 20:33:21 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:33:21 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 20:33:21 [main] Log - Step 3: Tìm hàng có Last Name = Alden
+[INFO ] 26-10-2025 20:34:46 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:34:46 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 20:34:48 [main] Log - Step 3: Đếm số hàng nằm sau hàng có Age = 39
+[INFO ] 26-10-2025 20:34:48 [main] Log - Số hàng phía sau: 9
+[INFO ] 26-10-2025 20:34:48 [main] Log - Step 4: Kiểm tra số hàng hợp lệ
+[INFO ] 26-10-2025 20:34:56 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:34:57 [main] Log - Step 2: Click vào menu Button màn hình Elements
+[INFO ] 26-10-2025 20:34:59 [main] Log - Step 3:Double click nút 'Double Click Me'
+[INFO ] 26-10-2025 20:35:00 [main] Log - Step 4: Verify thông báo hiển thị đúng sau khi double click
+[INFO ] 26-10-2025 20:35:08 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:35:08 [main] Log - Step 2: Click vào menu LINKS màn hình Elements
+[INFO ] 26-10-2025 20:35:09 [main] Log - Step 3: Kiểm tra nút Created Links
+[INFO ] 26-10-2025 20:35:09 [main] Log - Step 4:Kiểm tra thông báo chứa 201
+[INFO ] 26-10-2025 20:35:41 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:35:41 [main] Log - Step 2: Click vào menu Upload and Download màn hình Elements
+[INFO ] 26-10-2025 20:35:41 [main] Log - Step 3: Click chọn file 
+[INFO ] 26-10-2025 20:35:41 [main] Log - Step 4:Kiểm tra file path hieern thị tên file
+[INFO ] 26-10-2025 20:35:49 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:35:49 [main] Log - Step 2: Click vào menu Dynamic Properties màn hình Elements
+[INFO ] 26-10-2025 20:35:49 [main] Log - Step 3: Kiểm tra ban đầu nút bị disable
+[INFO ] 26-10-2025 20:35:49 [main] Log - Step 4: Chờ đến khi nút được bật lại
+[INFO ] 26-10-2025 20:35:54 [main] Log - Step 5: Kiểm tra sau khi chờ
+[INFO ] 26-10-2025 20:36:24 [main] Log - Step1: Click vào menu Alerts, Frame & Windows màn hình homepage
+[INFO ] 26-10-2025 20:36:24 [main] Log - Step 2: Click vào menu Alerts màn hình Alerts, Frame & Windows
+[INFO ] 26-10-2025 20:36:24 [main] Log - Step 3: Click chọn Click me để mở alerts đơn giản 
+[INFO ] 26-10-2025 20:36:24 [main] Log - Step 4:accept sau khi click me 
+[INFO ] 26-10-2025 20:36:59 [main] Log - Step1: Click vào menu Forms màn hình homepage
+[INFO ] 26-10-2025 20:36:59 [main] Log - Step 2: Click vào menu Practice Form màn hình Forms
+[INFO ] 26-10-2025 20:36:59 [main] Log - Step 3: Điền thng tin vào form 
+[INFO ] 26-10-2025 20:37:00 [main] Log - Step 4: Nhấn nút submit
+[INFO ] 26-10-2025 20:37:00 [main] Log - Step 5: Kiểm tra modal xác nhận hiển thị
+[INFO ] 26-10-2025 20:37:28 [main] Log - Step1: Click vào menu Widgets màn hình homepage
+[INFO ] 26-10-2025 20:37:28 [main] Log - Step 2: Click vào menu Date Picker Form màn hình Widgets
+[INFO ] 26-10-2025 20:37:28 [main] Log - Step 3: Mở picker
+[INFO ] 26-10-2025 20:37:28 [main] Log - Step 4: Chọn ngày 1 
+[INFO ] 26-10-2025 20:37:29 [main] Log - Step 5: Mở li picker
+[INFO ] 26-10-2025 20:37:29 [main] Log - Step 6 Chọn ngày 31 (Nếu có)
+[INFO ] 26-10-2025 20:49:24 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:49:24 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 20:49:24 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 20:49:25 [main] Log - Step 4: Nhập Email vào Textbox Email
+[INFO ] 26-10-2025 20:49:26 [main] Log - Step 5: Nhập CurrentAddress vào Textbox CurrentAddress
+[INFO ] 26-10-2025 20:49:26 [main] Log - Step 6: Nhập PermanentAddress vào Textbox PermanentAddress
+[INFO ] 26-10-2025 20:49:26 [main] Log - Step 7: Click Button Submit
+[INFO ] 26-10-2025 20:49:26 [main] Log - Step 8: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 20:49:36 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:49:36 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 20:49:36 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 20:49:36 [main] Log - Step 4: Nhập Email vào Textbox Email
+[INFO ] 26-10-2025 20:49:37 [main] Log - Step 5: Nhập CurrentAddress vào Textbox CurrentAddress
+[INFO ] 26-10-2025 20:49:37 [main] Log - Step 6: Nhập PermanentAddress vào Textbox PermanentAddress
+[INFO ] 26-10-2025 20:49:37 [main] Log - Step 7: Click Button Submit
+[INFO ] 26-10-2025 20:49:38 [main] Log - Step 8: Kiểm tra class của ô email
+[INFO ] 26-10-2025 20:49:38 [main] Log - Step 9: Verify output không chứa tên (dữ liệu chính)
+[INFO ] 26-10-2025 20:49:47 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:49:47 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 20:49:47 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 20:49:47 [main] Log - Step 4: Click vào Desktop trong checkbox
+[INFO ] 26-10-2025 20:49:47 [main] Log - Step 5: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 20:50:00 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:50:00 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 20:50:00 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 20:50:00 [main] Log - Step 4: Click vào home trong checkbox
+[INFO ] 26-10-2025 20:50:10 [main] Log - Step 1: Click vào menu Elements trên homepage
+[INFO ] 26-10-2025 20:50:10 [main] Log - Step 2: Click vào menu Radio Button trên màn hình Elements
+[INFO ] 26-10-2025 20:50:10 [main] Log - Step 3: Chọn radio button 'Yes'
+[INFO ] 26-10-2025 20:50:10 [main] Log - Step 4: Verify kết quả hiển thị ra màn hình
+[INFO ] 26-10-2025 20:50:22 [main] Log - Step 1: Click vào menu Elements trên homepage
+[INFO ] 26-10-2025 20:50:22 [main] Log - Step 2: Click vào menu Radio Button trên màn hình Elements
+[INFO ] 26-10-2025 20:50:22 [main] Log - Step 3: Kiểm tra radio button 'No' có bị vô hiệu hóa không
+[INFO ] 26-10-2025 20:50:23 [main] Log - Step 4: Verify không có kết quả hiển thị cho 'No'
+[INFO ] 26-10-2025 20:51:01 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:51:02 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 20:51:04 [main] Log - Step 3: Tìm hàng có First Name = Cierra
+[INFO ] 26-10-2025 20:51:06 [main] Log - Step 4: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 20:51:16 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:51:16 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 20:51:16 [main] Log - Step 3: Tìm hàng có Last Name = Alden
+[INFO ] 26-10-2025 20:51:55 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:51:55 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 20:51:57 [main] Log - Step 3: Đếm số hàng nằm sau hàng có Age = 39
+[INFO ] 26-10-2025 20:51:57 [main] Log - Số hàng phía sau: 9
+[INFO ] 26-10-2025 20:51:57 [main] Log - Step 4: Kiểm tra số hàng hợp lệ
+[INFO ] 26-10-2025 20:52:06 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:52:07 [main] Log - Step 2: Click vào menu Button màn hình Elements
+[INFO ] 26-10-2025 20:52:09 [main] Log - Step 3:Double click nút 'Double Click Me'
+[INFO ] 26-10-2025 20:52:10 [main] Log - Step 4: Verify thông báo hiển thị đúng sau khi double click
+[INFO ] 26-10-2025 20:52:50 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:52:50 [main] Log - Step 2: Click vào menu LINKS màn hình Elements
+[INFO ] 26-10-2025 20:52:50 [main] Log - Step 3: Kiểm tra nút Created Links
+[INFO ] 26-10-2025 20:52:50 [main] Log - Step 4:Kiểm tra thông báo chứa 201
+[INFO ] 26-10-2025 20:52:59 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:52:59 [main] Log - Step 2: Click vào menu Upload and Download màn hình Elements
+[INFO ] 26-10-2025 20:52:59 [main] Log - Step 3: Click chọn file 
+[INFO ] 26-10-2025 20:52:59 [main] Log - Step 4:Kiểm tra file path hieern thị tên file
+[INFO ] 26-10-2025 20:53:09 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:53:09 [main] Log - Step 2: Click vào menu Dynamic Properties màn hình Elements
+[INFO ] 26-10-2025 20:53:09 [main] Log - Step 3: Kiểm tra ban đầu nút bị disable
+[INFO ] 26-10-2025 20:53:09 [main] Log - Step 4: Chờ đến khi nút được bật lại
+[INFO ] 26-10-2025 20:53:14 [main] Log - Step 5: Kiểm tra sau khi chờ
+[INFO ] 26-10-2025 20:53:22 [main] Log - Step1: Click vào menu Alerts, Frame & Windows màn hình homepage
+[INFO ] 26-10-2025 20:53:22 [main] Log - Step 2: Click vào menu Alerts màn hình Alerts, Frame & Windows
+[INFO ] 26-10-2025 20:53:22 [main] Log - Step 3: Click chọn Click me để mở alerts đơn giản 
+[INFO ] 26-10-2025 20:53:22 [main] Log - Step 4:accept sau khi click me 
+[INFO ] 26-10-2025 20:53:31 [main] Log - Step1: Click vào menu Forms màn hình homepage
+[INFO ] 26-10-2025 20:53:31 [main] Log - Step 2: Click vào menu Practice Form màn hình Forms
+[INFO ] 26-10-2025 20:53:31 [main] Log - Step 3: Điền thng tin vào form 
+[INFO ] 26-10-2025 20:53:32 [main] Log - Step 4: Nhấn nút submit
+[INFO ] 26-10-2025 20:53:32 [main] Log - Step 5: Kiểm tra modal xác nhận hiển thị
+[INFO ] 26-10-2025 20:53:54 [main] Log - Step1: Click vào menu Widgets màn hình homepage
+[INFO ] 26-10-2025 20:53:54 [main] Log - Step 2: Click vào menu Date Picker Form màn hình Widgets
+[INFO ] 26-10-2025 20:53:54 [main] Log - Step 3: Mở picker
+[INFO ] 26-10-2025 20:53:54 [main] Log - Step 4: Chọn ngày 1 
+[INFO ] 26-10-2025 20:53:54 [main] Log - Step 5: Mở li picker
+[INFO ] 26-10-2025 20:53:54 [main] Log - Step 6 Chọn ngày 31 (Nếu có)
+[INFO ] 26-10-2025 20:55:34 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:55:35 [main] Log - Step 2: Click vào menu Textbox màn hình Elements
+[INFO ] 26-10-2025 20:55:35 [main] Log - Step 3: Nhập fulname vào Textbox Fullname
+[INFO ] 26-10-2025 20:55:36 [main] Log - Step 4: Nhập Email vào Textbox Email
+[INFO ] 26-10-2025 20:55:36 [main] Log - Step 5: Nhập CurrentAddress vào Textbox CurrentAddress
+[INFO ] 26-10-2025 20:55:37 [main] Log - Step 6: Nhập PermanentAddress vào Textbox PermanentAddress
+[INFO ] 26-10-2025 20:55:37 [main] Log - Step 7: Click Button Submit
+[INFO ] 26-10-2025 20:55:37 [main] Log - Step 8: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 20:55:48 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:55:48 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 20:55:48 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 20:55:48 [main] Log - Step 4: Click vào Desktop trong checkbox
+[INFO ] 26-10-2025 20:55:48 [main] Log - Step 5: Verify kết quả ra màn hình
+[INFO ] 26-10-2025 20:56:00 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:56:00 [main] Log - Step 2: Click vào menu Checkbox màn hình Elements
+[INFO ] 26-10-2025 20:56:00 [main] Log - Step 3: Click vào ExpandAll 
+[INFO ] 26-10-2025 20:56:00 [main] Log - Step 4: Click vào home trong checkbox
+[INFO ] 26-10-2025 20:56:12 [main] Log - Step 1: Click vào menu Elements trên homepage
+[INFO ] 26-10-2025 20:56:12 [main] Log - Step 2: Click vào menu Radio Button trên màn hình Elements
+[INFO ] 26-10-2025 20:56:12 [main] Log - Step 3: Chọn radio button 'Yes'
+[INFO ] 26-10-2025 20:56:12 [main] Log - Step 4: Verify kết quả hiển thị ra màn hình
+[INFO ] 26-10-2025 20:56:23 [main] Log - Step 1: Click vào menu Elements trên homepage
+[INFO ] 26-10-2025 20:56:23 [main] Log - Step 2: Click vào menu Radio Button trên màn hình Elements
+[INFO ] 26-10-2025 20:56:23 [main] Log - Step 3: Kiểm tra radio button 'No' có bị vô hiệu hóa không
+[INFO ] 26-10-2025 20:56:23 [main] Log - Step 4: Verify không có kết quả hiển thị cho 'No'
+[INFO ] 26-10-2025 20:56:45 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:56:45 [main] Log - Step 2: Click vào menu Web Tables màn hình Elements
+[INFO ] 26-10-2025 20:56:47 [main] Log - Step 3: Đếm số hàng nằm sau hàng có Age = 39
+[INFO ] 26-10-2025 20:56:47 [main] Log - Số hàng phía sau: 9
+[INFO ] 26-10-2025 20:56:47 [main] Log - Step 4: Kiểm tra số hàng hợp lệ
+[INFO ] 26-10-2025 20:57:07 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:57:07 [main] Log - Step 2: Click vào menu Button màn hình Elements
+[INFO ] 26-10-2025 20:57:09 [main] Log - Step 3:Double click nút 'Double Click Me'
+[INFO ] 26-10-2025 20:57:10 [main] Log - Step 4: Verify thông báo hiển thị đúng sau khi double click
+[INFO ] 26-10-2025 20:57:30 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:57:30 [main] Log - Step 2: Click vào menu LINKS màn hình Elements
+[INFO ] 26-10-2025 20:57:30 [main] Log - Step 3: Kiểm tra nút Created Links
+[INFO ] 26-10-2025 20:57:30 [main] Log - Step 4:Kiểm tra thông báo chứa 201
+[INFO ] 26-10-2025 20:57:44 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:57:44 [main] Log - Step 2: Click vào menu Upload and Download màn hình Elements
+[INFO ] 26-10-2025 20:57:44 [main] Log - Step 3: Click chọn file 
+[INFO ] 26-10-2025 20:57:44 [main] Log - Step 4:Kiểm tra file path hieern thị tên file
+[INFO ] 26-10-2025 20:57:55 [main] Log - Step1: Click vào menu Elements màn hình homepage
+[INFO ] 26-10-2025 20:57:55 [main] Log - Step 2: Click vào menu Dynamic Properties màn hình Elements
+[INFO ] 26-10-2025 20:57:55 [main] Log - Step 3: Kiểm tra ban đầu nút bị disable
+[INFO ] 26-10-2025 20:57:55 [main] Log - Step 4: Chờ đến khi nút được bật lại
+[INFO ] 26-10-2025 20:58:01 [main] Log - Step 5: Kiểm tra sau khi chờ
+[INFO ] 26-10-2025 20:58:12 [main] Log - Step1: Click vào menu Alerts, Frame & Windows màn hình homepage
+[INFO ] 26-10-2025 20:58:12 [main] Log - Step 2: Click vào menu Alerts màn hình Alerts, Frame & Windows
+[INFO ] 26-10-2025 20:58:13 [main] Log - Step 3: Click chọn Click me để mở alerts đơn giản 
+[INFO ] 26-10-2025 20:58:13 [main] Log - Step 4:accept sau khi click me 
+[INFO ] 26-10-2025 20:58:33 [main] Log - Step1: Click vào menu Forms màn hình homepage
+[INFO ] 26-10-2025 20:58:33 [main] Log - Step 2: Click vào menu Practice Form màn hình Forms
+[INFO ] 26-10-2025 20:58:33 [main] Log - Step 3: Điền thng tin vào form 
+[INFO ] 26-10-2025 20:58:34 [main] Log - Step 4: Nhấn nút submit
+[INFO ] 26-10-2025 20:58:34 [main] Log - Step 5: Kiểm tra modal xác nhận hiển thị
+[INFO ] 26-10-2025 20:58:42 [main] Log - Step1: Click vào menu Widgets màn hình homepage
+[INFO ] 26-10-2025 20:58:42 [main] Log - Step 2: Click vào menu Date Picker Form màn hình Widgets
+[INFO ] 26-10-2025 20:58:42 [main] Log - Step 3: Mở picker
+[INFO ] 26-10-2025 20:58:43 [main] Log - Step 4: Chọn ngày 1 
+[INFO ] 26-10-2025 20:58:43 [main] Log - Step 5: Mở li picker
+[INFO ] 26-10-2025 20:58:43 [main] Log - Step 6 Chọn ngày 31 (Nếu có)
