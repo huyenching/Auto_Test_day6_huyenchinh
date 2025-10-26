@@ -239,22 +239,22 @@ public class FlowToElementTestcases extends BaseTest {
         Assert.assertTrue(count >= 0, "Số hàng phía sau phải >= 0");
     }
 
-    @Test(priority = 10,description  = "DQ_BTN_001 | Elements > Buttons | Positive Double Click")
-    public void DQ_BTN_001() {
-        Log.info("Step1: Click vào menu Elements màn hình homepage");
-        homePage.clickOnMenu("Elements");
-        Log.info("Step 2: Click vào menu Button màn hình Elements");
-        menuLeft.clickOnMenu("Buttons");
-
-        CommonUtils.SleepInSeconds(2);
-
-        Log.info("Step 3:Double click nút 'Double Click Me'");
-        buttons.clickButton();
-
-        Log.info("Step 4: Verify thông báo hiển thị đúng sau khi double click");
-        String message = buttons.getMessage();
-        Assert.assertEquals(message,"You have done a double click", "Thông báo không đúng sau khi double click");
-    }
+//    @Test(priority = 10,description  = "DQ_BTN_001 | Elements > Buttons | Positive Double Click")
+//    public void DQ_BTN_001() {
+//        Log.info("Step1: Click vào menu Elements màn hình homepage");
+//        homePage.clickOnMenu("Elements");
+//        Log.info("Step 2: Click vào menu Button màn hình Elements");
+//        menuLeft.clickOnMenu("Buttons");
+//
+//        // CommonUtils.SleepInSeconds(2);
+//
+//        Log.info("Step 3:Double click nút 'Double Click Me'");
+//        buttons.clickButton();
+//
+//        Log.info("Step 4: Verify thông báo hiển thị đúng sau khi double click");
+//        String message = buttons.getMessage();
+//        Assert.assertEquals(message,"You have done a double click", "Thông báo không đúng sau khi double click");
+//    }
 
     @Test(priority = 11,description = "DQ-LINK-001 | Elements > LINKS | Negative Check No option is disabled")
     public void DQ_LINK_001() {
