@@ -192,22 +192,22 @@ public class FlowToElementTestcases extends BaseTest {
         Assert.assertTrue(true, "Kết quả không được hiển thị khi chọn 'No'");
     }
 
-//    @Test(priority = 7,description = "DQ-WT-001 | Elements > Web Tavles | LOCATOR_FOLLOWING_SIBLING")
-//    public void DQ_WT_001() {
-//        Log.info("Step1: Click vào menu Elements màn hình homepage");
-//        homePage.clickOnMenu("Elements");
-//        Log.info("Step 2: Click vào menu Web Tables màn hình Elements");
-//        menuLeft.clickOnMenu("Web Tables");
-//
-//        CommonUtils.SleepInSeconds(2);
-//
-//        Log.info("Step 3: Tìm hàng có First Name = Cierra");
-//        webTable.getEmailByFirstName("Cierra");
-//
-//        Log.info("Step 4: Verify kết quả ra màn hình");
-//        Assert.assertTrue(webTable.isEmailValid("Cierra"),"Email không hợp lệ hoặc không tìm thấy");
-//    }
-//
+    @Test(priority = 7,description = "DQ-WT-001 | Elements > Web Tavles | LOCATOR_FOLLOWING_SIBLING")
+    public void DQ_WT_001() {
+        Log.info("Step1: Click vào menu Elements màn hình homepage");
+        homePage.clickOnMenu("Elements");
+        Log.info("Step 2: Click vào menu Web Tables màn hình Elements");
+        menuLeft.clickOnMenu("Web Tables");
+
+        CommonUtils.SleepInSeconds(2);
+
+        Log.info("Step 3: Tìm hàng có First Name = Cierra");
+        webTable.getEmailByFirstName("Cierra");
+
+        Log.info("Step 4: Verify kết quả ra màn hình");
+        Assert.assertTrue(webTable.isEmailValid("Cierra"),"Email không hợp lệ hoặc không tìm thấy");
+    }
+
 //    @Test(priority = 8,description = "DQ-WT-002 | Elements > Web Tables | Locate Edit button by Last Name")
 //    public void DQ_WT_002() {
 //        Log.info("Step1: Click vào menu Elements màn hình homepage");

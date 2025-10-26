@@ -1,6 +1,7 @@
 package actions.elements;
 
 import common.BasePage;
+import common.CommonUtils;
 import interfaces.elements.TextboxPageInterface;
 import org.openqa.selenium.WebDriver;
 
@@ -40,6 +41,7 @@ public class TextboxPageAction extends BasePage {
         waitForElementIsVisible(driver, SUBMIT_BUTTON);
         scrollIntoView(driver, SUBMIT_BUTTON);
         clickToElementByJS(driver, SUBMIT_BUTTON);
+        CommonUtils.SleepInSeconds(1);
     }
 
     public String getResult() {
@@ -52,7 +54,7 @@ public class TextboxPageAction extends BasePage {
     }
 
     public boolean isOutputNotDisplayed() {
-        List<WebElement> elements = getElements(driver, outputText);
-        return elements.isEmpty();
+        int size = getListElementSize(driver, outputText);
+        return size == 0;
     }
 }

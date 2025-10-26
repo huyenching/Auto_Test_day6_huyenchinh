@@ -229,12 +229,12 @@ public class BasePage {
     }
     // 35 getListElementSize
     public int getListElementSize(WebDriver driver, String xpath) {
-        waitForElementIsVisible(driver, xpath);
+        // waitForElementIsVisible(driver, xpath);
         return driver.findElements(By.xpath(xpath)).size();
     }
     // 36 getListElementSize (params)
     public int getListElementSize(WebDriver driver, String xpath, String... params) {
-        waitForElementIsVisible(driver, xpath,params);
+       // waitForElementIsVisible(driver, xpath,params);
         String dynamicXpath = String.format(xpath, (Object[]) params);
         return driver.findElements(By.xpath(dynamicXpath)).size();
     }

@@ -19,33 +19,20 @@ public class WebtableAction extends BasePage {
     }
 
     public void clickEditByLastName(String lastName) {
-        String editXpath = String.format(WebtableInterface.EDIT_BY_LASTNAME, lastName);
+        scrollIntoView(driver, WebtableInterface.TABLE_CONTAINER);
 
-        String rowLocator = String.format("//div[text()='%s']", lastName);
-        try {
-            waitForElementIsVisible(driver, rowLocator); // Sử dụng BasePage.waitForElementIsVisible (16)
-        } catch (Exception e) {
-            System.err.println("Lỗi chờ dữ liệu cho " + lastName + ": " + e.getMessage());
-        }
-        scrollIntoView(driver, editXpath);
+        String xpath = WebtableInterface.EDIT_BY_LASTNAME;
 
-        clickToElementByJS(driver, editXpath);
+         clickToElement(driver, xpath, lastName);
     }
 
     public boolean isEditFormDisplayed() {
-        try {
-
-            waitForElementIsVisible(driver, WebtableInterface.EDIT_FORM);
-             return isDisplayElement(driver, WebtableInterface.EDIT_FORM); // Sử dụng BasePage.isDisplayElement (37)
-        } catch (Exception e) {
-
-             return false;
-        }
+        return isDisplayElement(driver, WebtableInterface.EDIT_FORM);
     }
 
     public int getRowsAfterAge(String age) {
-        String rowsXpath = String.format(WebtableInterface.ROWS_AFTER_AGE, age);
-        return getListElementSize(driver, rowsXpath);
+        scrollIntoView(driver, WebtableInterface.TABLE_CONTAINER);
+        return getListElementSize(driver, WebtableInterface.ROWS_AFTER_AGE, age);
     }
 
     public boolean isEmailValid(String firstName) {
