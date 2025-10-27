@@ -87,39 +87,39 @@ public class FlowToElementTestcases extends BaseTest {
         Assert.assertTrue(result.contains("Đỗ Huyền Chinh"), "FullName hiển thị không đúng");
         Assert.assertTrue(result.contains("huyenchinh@gmail.com"), "Email hiển thị không đúng");
     }
-//    @Test(priority = 2, description = "DQ-TB-002 | Elements > Text Box | Email sai định dạng → hiển thị lỗi, không có output")
-//    public void DQ_TB_002() {
-//        Log.info("Step1: Click vào menu Elements màn hình homepage");
-//        homePage.clickOnMenu("Elements");
-//
-//        Log.info("Step 2: Click vào menu Textbox màn hình Elements");
-//        menuLeft.clickOnMenu("Text Box");
-//
-//        Log.info("Step 3: Nhập fulname vào Textbox Fullname");
-//        textBox.enterFullName("Đỗ Huyền Chinh");
-//
-//        Log.info("Step 4: Nhập Email vào Textbox Email");
-//        textBox.enterEmail("huyenchinh@");
-//
-//        Log.info("Step 5: Nhập CurrentAddress vào Textbox CurrentAddress");
-//        textBox.enterCurrentAddress("Hà Nội");
-//
-//        Log.info("Step 6: Nhập PermanentAddress vào Textbox PermanentAddress");
-//        textBox.enterPermanentAddress("Thái Bình");
-//
-//        Log.info("Step 7: Click Button Submit");
-//        textBox.clickSubmitButton();
-//
-//        CommonUtils.SleepInSeconds(1);
-//
-//        Log.info("Step 8: Kiểm tra class của ô email");
-//        String emailClass = textBox.getEmailClass(); // Đã sửa
-//        Assert.assertTrue(emailClass.contains("error") || emailClass.contains("invalid") || emailClass.contains("field-error"),
-//                "DQ_TB_002 Thất bại: Email sai định dạng không hiển thị lỗi.");
-//
-//        Log.info("Step 9: Verify output không chứa tên (dữ liệu chính)");
-//        Assert.assertTrue(textBox.isOutputNotDisplayed(), "DQ_TB_002 Thất bại: Không nên có kết quả khi email sai định dạng.");
-//    }
+    @Test(priority = 2, description = "DQ-TB-002 | Elements > Text Box | Email sai định dạng → hiển thị lỗi, không có output")
+    public void DQ_TB_002() {
+        Log.info("Step1: Click vào menu Elements màn hình homepage");
+        homePage.clickOnMenu("Elements");
+
+        Log.info("Step 2: Click vào menu Textbox màn hình Elements");
+        menuLeft.clickOnMenu("Text Box");
+
+        Log.info("Step 3: Nhập fulname vào Textbox Fullname");
+        textBox.enterFullName("Đỗ Huyền Chinh");
+
+        Log.info("Step 4: Nhập Email vào Textbox Email");
+        textBox.enterEmail("huyenchinh@");
+
+        Log.info("Step 5: Nhập CurrentAddress vào Textbox CurrentAddress");
+        textBox.enterCurrentAddress("Hà Nội");
+
+        Log.info("Step 6: Nhập PermanentAddress vào Textbox PermanentAddress");
+        textBox.enterPermanentAddress("Thái Bình");
+
+        Log.info("Step 7: Click Button Submit");
+        textBox.clickSubmitButton();
+
+        CommonUtils.SleepInSeconds(1);
+
+        Log.info("Step 8: Kiểm tra class của ô email");
+        String emailClass = textBox.getEmailClass(); // Đã sửa
+        Assert.assertTrue(emailClass.contains("error") || emailClass.contains("invalid") || emailClass.contains("field-error"),
+                "DQ_TB_002 Thất bại: Email sai định dạng không hiển thị lỗi.");
+
+        Log.info("Step 9: Verify output không chứa tên (dữ liệu chính)");
+        Assert.assertTrue(textBox.isOutputNotDisplayed(), "DQ_TB_002 Thất bại: Không nên có kết quả khi email sai định dạng.");
+    }
 
     @Test(priority = 3,description = "DQ-CB-001 | Elements > Check Box | Positive Single Node")
     public void DQ_CB_001() {
@@ -208,19 +208,19 @@ public class FlowToElementTestcases extends BaseTest {
         Assert.assertTrue(webTable.isEmailValid("Cierra"),"Email không hợp lệ hoặc không tìm thấy");
     }
 
-//    @Test(priority = 8,description = "DQ-WT-002 | Elements > Web Tables | Locate Edit button by Last Name")
-//    public void DQ_WT_002() {
-//        Log.info("Step1: Click vào menu Elements màn hình homepage");
-//        homePage.clickOnMenu("Elements");
-//        Log.info("Step 2: Click vào menu Web Tables màn hình Elements");
-//        menuLeft.clickOnMenu("Web Tables");
-//        Log.info("Step 3: Tìm hàng có Last Name = Alden");
-//        webTable.clickEditByLastName("Alden");
-//
-//        Log.info("Step 4: Verify form Edit hiển thị");
-//        Assert.assertTrue(webTable.isEditFormDisplayed(),
-//                "Form Edit phải hiển thị sau khi click Edit");
-//    }
+    @Test(priority = 8,description = "DQ-WT-002 | Elements > Web Tables | Locate Edit button by Last Name")
+    public void DQ_WT_002() {
+        Log.info("Step1: Click vào menu Elements màn hình homepage");
+        homePage.clickOnMenu("Elements");
+        Log.info("Step 2: Click vào menu Web Tables màn hình Elements");
+        menuLeft.clickOnMenu("Web Tables");
+        Log.info("Step 3: Tìm hàng có Last Name = Alden");
+        webTable.clickEditByLastName("Alden");
+
+        Log.info("Step 4: Verify form Edit hiển thị");
+        Assert.assertTrue(webTable.isEditFormDisplayed(),
+                "Form Edit phải hiển thị sau khi click Edit");
+    }
 
     @Test(priority = 9,description = "DQ-WT-003 | Elements > Web Tables | Count rows after specific Age")
     public void DQ_WT_003() {
@@ -239,22 +239,22 @@ public class FlowToElementTestcases extends BaseTest {
         Assert.assertTrue(count >= 0, "Số hàng phía sau phải >= 0");
     }
 
-//    @Test(priority = 10,description  = "DQ_BTN_001 | Elements > Buttons | Positive Double Click")
-//    public void DQ_BTN_001() {
-//        Log.info("Step1: Click vào menu Elements màn hình homepage");
-//        homePage.clickOnMenu("Elements");
-//        Log.info("Step 2: Click vào menu Button màn hình Elements");
-//        menuLeft.clickOnMenu("Buttons");
-//
-//        // CommonUtils.SleepInSeconds(2);
-//
-//        Log.info("Step 3:Double click nút 'Double Click Me'");
-//        buttons.clickButton();
-//
-//        Log.info("Step 4: Verify thông báo hiển thị đúng sau khi double click");
-//        String message = buttons.getMessage();
-//        Assert.assertEquals(message,"You have done a double click", "Thông báo không đúng sau khi double click");
-//    }
+    @Test(priority = 10,description  = "DQ_BTN_001 | Elements > Buttons | Positive Double Click")
+    public void DQ_BTN_001() {
+        Log.info("Step1: Click vào menu Elements màn hình homepage");
+        homePage.clickOnMenu("Elements");
+        Log.info("Step 2: Click vào menu Button màn hình Elements");
+        menuLeft.clickOnMenu("Buttons");
+
+        // CommonUtils.SleepInSeconds(2);
+
+        Log.info("Step 3:Double click nút 'Double Click Me'");
+        buttons.clickButton();
+
+        Log.info("Step 4: Verify thông báo hiển thị đúng sau khi double click");
+        String message = buttons.getMessage();
+        Assert.assertEquals(message,"You have done a double click", "Thông báo không đúng sau khi double click");
+    }
 
     @Test(priority = 11,description = "DQ-LINK-001 | Elements > LINKS | Negative Check No option is disabled")
     public void DQ_LINK_001() {
