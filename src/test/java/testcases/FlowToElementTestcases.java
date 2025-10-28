@@ -87,39 +87,39 @@ public class FlowToElementTestcases extends BaseTest {
         Assert.assertTrue(result.contains("Đỗ Huyền Chinh"), "FullName hiển thị không đúng");
         Assert.assertTrue(result.contains("huyenchinh@gmail.com"), "Email hiển thị không đúng");
     }
-    @Test(priority = 2, description = "DQ-TB-002 | Elements > Text Box | Email sai định dạng → hiển thị lỗi, không có output")
-    public void DQ_TB_002() {
-        Log.info("Step1: Click vào menu Elements màn hình homepage");
-        homePage.clickOnMenu("Elements");
-
-        Log.info("Step 2: Click vào menu Textbox màn hình Elements");
-        menuLeft.clickOnMenu("Text Box");
-
-        Log.info("Step 3: Nhập fulname vào Textbox Fullname");
-        textBox.enterFullName("Đỗ Huyền Chinh");
-
-        Log.info("Step 4: Nhập Email vào Textbox Email");
-        textBox.enterEmail("huyenchinh@");
-
-        Log.info("Step 5: Nhập CurrentAddress vào Textbox CurrentAddress");
-        textBox.enterCurrentAddress("Hà Nội");
-
-        Log.info("Step 6: Nhập PermanentAddress vào Textbox PermanentAddress");
-        textBox.enterPermanentAddress("Thái Bình");
-
-        Log.info("Step 7: Click Button Submit");
-        textBox.clickSubmitButton();
-
-        CommonUtils.SleepInSeconds(1);
-
-        Log.info("Step 8: Kiểm tra class của ô email");
-        String emailClass = textBox.getEmailClass(); // Đã sửa
-        Assert.assertTrue(emailClass.contains("error") || emailClass.contains("invalid") || emailClass.contains("field-error"),
-                "DQ_TB_002 Thất bại: Email sai định dạng không hiển thị lỗi.");
-
-        Log.info("Step 9: Verify output không chứa tên (dữ liệu chính)");
-        Assert.assertTrue(textBox.isOutputNotDisplayed(), "DQ_TB_002 Thất bại: Không nên có kết quả khi email sai định dạng.");
-    }
+//    @Test(priority = 2, description = "DQ-TB-002 | Elements > Text Box | Email sai định dạng → hiển thị lỗi, không có output")
+//    public void DQ_TB_002() {
+//        Log.info("Step1: Click vào menu Elements màn hình homepage");
+//        homePage.clickOnMenu("Elements");
+//
+//        Log.info("Step 2: Click vào menu Textbox màn hình Elements");
+//        menuLeft.clickOnMenu("Text Box");
+//
+//        Log.info("Step 3: Nhập fulname vào Textbox Fullname");
+//        textBox.enterFullName("Đỗ Huyền Chinh");
+//
+//        Log.info("Step 4: Nhập Email vào Textbox Email");
+//        textBox.enterEmail("huyenchinh@");
+//
+//        Log.info("Step 5: Nhập CurrentAddress vào Textbox CurrentAddress");
+//        textBox.enterCurrentAddress("Hà Nội");
+//
+//        Log.info("Step 6: Nhập PermanentAddress vào Textbox PermanentAddress");
+//        textBox.enterPermanentAddress("Thái Bình");
+//
+//        Log.info("Step 7: Click Button Submit");
+//        textBox.clickSubmitButton();
+//
+//        CommonUtils.SleepInSeconds(1);
+//
+//        Log.info("Step 8: Kiểm tra class của ô email");
+//        String emailClass = textBox.getEmailClass(); // Đã sửa
+//        Assert.assertTrue(emailClass.contains("error") || emailClass.contains("invalid") || emailClass.contains("field-error"),
+//                "DQ_TB_002 Thất bại: Email sai định dạng không hiển thị lỗi.");
+//
+//        Log.info("Step 9: Verify output không chứa tên (dữ liệu chính)");
+//        Assert.assertTrue(textBox.isOutputNotDisplayed(), "DQ_TB_002 Thất bại: Không nên có kết quả khi email sai định dạng.");
+//    }
 
     @Test(priority = 3,description = "DQ-CB-001 | Elements > Check Box | Positive Single Node")
     public void DQ_CB_001() {

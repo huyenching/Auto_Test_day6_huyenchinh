@@ -4,6 +4,8 @@ import common.BasePage;
 import common.CommonUtils; // Cần import CommonUtils
 import interfaces.elements.ButtonsInterface;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 
 public class ButtonsAction extends BasePage {
     public ButtonsAction(WebDriver driver) {
@@ -11,10 +13,13 @@ public class ButtonsAction extends BasePage {
     }
 
     public void clickButton() {
-       // waitForElementIsVisible(driver, ButtonsInterface.DOUBLE_CLICK_BUTTON);
+       waitForElementIsVisible(driver, ButtonsInterface.DOUBLE_CLICK_BUTTON);
         scrollIntoView(driver, ButtonsInterface.DOUBLE_CLICK_BUTTON);
-        doubleClickOnElement(driver, ButtonsInterface.DOUBLE_CLICK_BUTTON);
-
+        WebElement button = getElement(driver, ButtonsInterface.DOUBLE_CLICK_BUTTON);
+        highlightElement(driver, ButtonsInterface.DOUBLE_CLICK_BUTTON);
+        Actions actions = new Actions(driver);
+        actions.doubleClick(button).perform();
+        CommonUtils.SleepInSeconds(2);
     }
 
     public String getMessage() {
